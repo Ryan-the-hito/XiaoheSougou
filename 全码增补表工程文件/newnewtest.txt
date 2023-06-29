@@ -1,0 +1,5940 @@
+{
+"character": "卜",
+
+"fly_code": "buld- bold",
+{
+"character": "刁",
+
+"fly_code": "dnva-",
+{
+"character": "土",
+
+"fly_code": "tuua-",
+{
+"character": "山",
+
+"fly_code": "ujlk-",
+{
+"character": "巾",
+
+"fly_code": "jbll-",
+{
+"character": "夕",
+
+"fly_code": "xipd-",
+{
+"character": "勺",
+
+"fly_code": "ucbd-",
+{
+"character": "凡",
+
+"fly_code": "fjjd-",
+{
+"character": "丸",
+
+"fly_code": "wjpd-",
+{
+"character": "及",
+
+"fly_code": "jipn-",
+{
+"character": "己",
+
+"fly_code": "jivv-",
+{
+"character": "已",
+
+"fly_code": "yivv-",
+{
+"character": "刃",
+
+"fly_code": "rfdd-",
+{
+"character": "马",
+
+"fly_code": "mava-",
+{
+"character": "夫",
+
+"fly_code": "fuan-",
+{
+"character": "扎",
+
+"fly_code": "vafv- zafv",
+{
+"character": "厅",
+
+"fly_code": "tkid-",
+{
+"character": "区",
+
+"fly_code": "qukx- oukx",
+{
+"character": "历",
+
+"fly_code": "liil-",
+{
+"character": "比",
+
+"fly_code": "bibb-",
+{
+"character": "少",
+
+"fly_code": "ucxp-",
+{
+"character": "曰",
+
+"fly_code": "ytka-",
+{
+"character": "中",
+
+"fly_code": "vsll-",
+{
+"character": "水",
+
+"fly_code": "uvln-",
+{
+"character": "见",
+
+"fly_code": "jmke-",
+{
+"character": "气",
+
+"fly_code": "qipv-",
+{
+"character": "长",
+
+"fly_code": "ihpn- vhpn",
+{
+"character": "什",
+
+"fly_code": "uiru ufru-",
+{
+"character": "仇",
+
+"fly_code": "izrj qqrj-",
+{
+"character": "凶",
+
+"fly_code": "xsxk-",
+{
+"character": "分",
+
+"fly_code": "ffbd-",
+{
+"character": "仓",
+
+"fly_code": "chrv-",
+{
+"character": "匀",
+
+"fly_code": "yybd-",
+{
+"character": "文",
+
+"fly_code": "wfwx-",
+{
+"character": "为",
+
+"fly_code": "wwdd-",
+{
+"character": "斗",
+
+"fly_code": "dzdu-",
+{
+"character": "计",
+
+"fly_code": "jiyu-",
+{
+"character": "订",
+
+"fly_code": "dkyd-",
+{
+"character": "户",
+
+"fly_code": "hudu-",
+{
+"character": "认",
+
+"fly_code": "rfyr-",
+{
+"character": "心",
+
+"fly_code": "xbdd-",
+{
+"character": "引",
+
+"fly_code": "ybgl-",
+{
+"character": "允",
+
+"fly_code": "yyse-",
+{
+"character": "书",
+
+"fly_code": "uuvd-",
+{
+"character": "玉",
+
+"fly_code": "yuwd-",
+{
+"character": "未",
+
+"fly_code": "wwan-",
+{
+"character": "击",
+
+"fly_code": "jiak-",
+{
+"character": "去",
+
+"fly_code": "quts-",
+{
+"character": "丙",
+
+"fly_code": "bkan-",
+{
+"character": "左",
+
+"fly_code": "zoug-",
+{
+"character": "布",
+
+"fly_code": "buuj-",
+{
+"character": "轧",
+
+"fly_code": "gaiv yaiv vaiv-",
+{
+"character": "占",
+
+"fly_code": "vjlk-",
+{
+"character": "卢",
+
+"fly_code": "lulu-",
+{
+"character": "帅",
+
+"fly_code": "uklj-",
+{
+"character": "归",
+
+"fly_code": "gvle-",
+{
+"character": "申",
+
+"fly_code": "ufll-",
+{
+"character": "号",
+
+"fly_code": "hckv-",
+{
+"character": "由",
+
+"fly_code": "yzla-",
+{
+"character": "叫",
+
+"fly_code": "jnkl-",
+{
+"character": "叩",
+
+"fly_code": "kzke-",
+{
+"character": "凹",
+
+"fly_code": "aola wala-",
+{
+"character": "付",
+
+"fly_code": "furc-",
+{
+"character": "代",
+
+"fly_code": "ddry-",
+{
+"character": "令",
+
+"fly_code": "lkrs-",
+{
+"character": "乐",
+
+"fly_code": "lepd ytpd lcpd-",
+{
+"character": "句",
+
+"fly_code": "jubk- gzbk*",
+{
+"character": "匆",
+
+"fly_code": "csbd-",
+{
+"character": "外",
+
+"fly_code": "wdxb-",
+{
+"character": "主",
+
+"fly_code": "vudw-",
+{
+"character": "市",
+
+"fly_code": "uiwj-",
+{
+"character": "冯",
+
+"fly_code": "fgdm- pkdm*",
+{
+"character": "玄",
+
+"fly_code": "xrwy-",
+{
+"character": "闪",
+
+"fly_code": "ujmr-",
+{
+"character": "半",
+
+"fly_code": "bjdl-",
+{
+"character": "汁",
+
+"fly_code": "vidu-",
+{
+"character": "汇",
+
+"fly_code": "hvdk-",
+{
+"character": "头",
+
+"fly_code": "tzdd-",
+{
+"character": "讨",
+
+"fly_code": "tcyc-",
+{
+"character": "让",
+
+"fly_code": "rhyu-",
+{
+"character": "议",
+
+"fly_code": "yiyy-",
+{
+"character": "必",
+
+"fly_code": "bidd-",
+{
+"character": "记",
+
+"fly_code": "jiyj-",
+{
+"character": "永",
+
+"fly_code": "ysdn-",
+{
+"character": "司",
+
+"fly_code": "sivk-",
+{
+"character": "弗",
+
+"fly_code": "fuvl-",
+{
+"character": "召",
+
+"fly_code": "vcdk- ucdk",
+{
+"character": "加",
+
+"fly_code": "jxlk-",
+{
+"character": "皮",
+
+"fly_code": "pivy-",
+{
+"character": "圣",
+
+"fly_code": "ugyt-",
+{
+"character": "式",
+
+"fly_code": "uiyg-",
+{
+"character": "考",
+
+"fly_code": "kclv-",
+{
+"character": "圾",
+
+"fly_code": "jitj-",
+{
+"character": "执",
+
+"fly_code": "vifw-",
+{
+"character": "耳",
+
+"fly_code": "eraa-",
+{
+"character": "芋",
+
+"fly_code": "yucy-",
+{
+"character": "芝",
+
+"fly_code": "vicv-",
+{
+"character": "机",
+
+"fly_code": "jimj-",
+{
+"character": "过",
+
+"fly_code": "gozc-",
+{
+"character": "吏",
+
+"fly_code": "lian-",
+{
+"character": "有",
+
+"fly_code": "yzuo-",
+{
+"character": "夺",
+
+"fly_code": "dodc-",
+{
+"character": "灰",
+
+"fly_code": "hvuh-",
+{
+"character": "达",
+
+"fly_code": "dazd-",
+{
+"character": "列",
+
+"fly_code": "lpdd-",
+{
+"character": "夷",
+
+"fly_code": "yian-",
+{
+"character": "划",
+
+"fly_code": "hxgd-",
+{
+"character": "贞",
+
+"fly_code": "vflr-",
+{
+"character": "同",
+
+"fly_code": "tskk-",
+{
+"character": "因",
+
+"fly_code": "ybkd-",
+{
+"character": "吸",
+
+"fly_code": "xikj-",
+{
+"character": "吗",
+
+"fly_code": "makm-",
+{
+"character": "屿",
+
+"fly_code": "yuey-",
+{
+"character": "屹",
+
+"fly_code": "yieq-",
+{
+"character": "岂",
+
+"fly_code": "qiej-",
+{
+"character": "舌",
+
+"fly_code": "ueqk-",
+{
+"character": "伟",
+
+"fly_code": "wwrw-",
+{
+"character": "伍",
+
+"fly_code": "wurw-",
+{
+"character": "延",
+
+"fly_code": "yjzv-",
+{
+"character": "件",
+
+"fly_code": "jmrn-",
+{
+"character": "任",
+
+"fly_code": "rfrr-",
+{
+"character": "伦",
+
+"fly_code": "lyrb-",
+{
+"character": "仿",
+
+"fly_code": "fhrf-",
+{
+"character": "伊",
+
+"fly_code": "yiry-",
+{
+"character": "血",
+
+"fly_code": "xppm xtpm-",
+{
+"character": "行",
+
+"fly_code": "xkii hhii- hgii",
+{
+"character": "会",
+
+"fly_code": "hvrs- kkrs-",
+{
+"character": "合",
+
+"fly_code": "herk- gerk",
+{
+"character": "朵",
+
+"fly_code": "dojm-",
+{
+"character": "杂",
+
+"fly_code": "zajm-",
+{
+"character": "危",
+
+"fly_code": "wwdv-",
+{
+"character": "旬",
+
+"fly_code": "xybo-",
+{
+"character": "旨",
+
+"fly_code": "vibo-",
+{
+"character": "匈",
+
+"fly_code": "xsbk-",
+{
+"character": "名",
+
+"fly_code": "mkxk-",
+{
+"character": "多",
+
+"fly_code": "doxx-",
+{
+"character": "壮",
+
+"fly_code": "vldu-",
+{
+"character": "冰",
+
+"fly_code": "bkdu-",
+{
+"character": "亦",
+
+"fly_code": "yiwd-",
+{
+"character": "次",
+
+"fly_code": "cidr-",
+{
+"character": "决",
+
+"fly_code": "jtdg-",
+{
+"character": "充",
+
+"fly_code": "iswe-",
+{
+"character": "闭",
+
+"fly_code": "bimc-",
+{
+"character": "问",
+
+"fly_code": "wfmk-",
+{
+"character": "闯",
+
+"fly_code": "ilmm-",
+{
+"character": "并",
+
+"fly_code": "bkbk-",
+{
+"character": "米",
+
+"fly_code": "midm-",
+{
+"character": "州",
+
+"fly_code": "vzdl-",
+{
+"character": "污",
+
+"fly_code": "wudk-",
+{
+"character": "池",
+
+"fly_code": "iidy-",
+{
+"character": "忙",
+
+"fly_code": "mhxw-",
+{
+"character": "宇",
+
+"fly_code": "yuby-",
+{
+"character": "字",
+
+"fly_code": "zibz-",
+{
+"character": "讲",
+
+"fly_code": "jlyj-",
+{
+"character": "讶",
+
+"fly_code": "yayy-",
+{
+"character": "讼",
+
+"fly_code": "ssys-",
+{
+"character": "农",
+
+"fly_code": "nsdn-",
+{
+"character": "访",
+
+"fly_code": "fhyf-",
+{
+"character": "那",
+
+"fly_code": "nave- nwve",
+{
+"character": "迅",
+
+"fly_code": "xyzu-",
+{
+"character": "尽",
+
+"fly_code": "jbid-",
+{
+"character": "异",
+
+"fly_code": "yisc-",
+{
+"character": "妃",
+
+"fly_code": "fwnj-",
+{
+"character": "羽",
+
+"fly_code": "yuxx-",
+{
+"character": "欢",
+
+"fly_code": "hryr-",
+{
+"character": "驮",
+
+"fly_code": "tomd domd-",
+{
+"character": "驯",
+
+"fly_code": "xymi-",
+{
+"character": "约",
+
+"fly_code": "ytsu- ycsu-",
+{
+"character": "级",
+
+"fly_code": "jisj-",
+{
+"character": "纫",
+
+"fly_code": "rfsr-",
+{
+"character": "玖",
+
+"fly_code": "jqwj-",
+{
+"character": "戒",
+
+"fly_code": "jpgc-",
+{
+"character": "远",
+
+"fly_code": "yrze-",
+{
+"character": "扶",
+
+"fly_code": "fuff-",
+{
+"character": "拒",
+
+"fly_code": "jufj-",
+{
+"character": "找",
+
+"fly_code": "vcfg-",
+{
+"character": "抄",
+
+"fly_code": "icfu-",
+{
+"character": "贡",
+
+"fly_code": "gsgr-",
+{
+"character": "汞",
+
+"fly_code": "gsgu-",
+{
+"character": "赤",
+
+"fly_code": "iitd-",
+{
+"character": "折",
+
+"fly_code": "vefj- uefj",
+{
+"character": "孝",
+
+"fly_code": "xnlz-",
+{
+"character": "抑",
+
+"fly_code": "yife-",
+{
+"character": "坑",
+
+"fly_code": "kgtj-",
+{
+"character": "抖",
+
+"fly_code": "dzfu-",
+{
+"character": "护",
+
+"fly_code": "hufh-",
+{
+"character": "把",
+
+"fly_code": "bafb-",
+{
+"character": "报",
+
+"fly_code": "bcfy-",
+{
+"character": "芙",
+
+"fly_code": "fucf-",
+{
+"character": "芜",
+
+"fly_code": "wucw-",
+{
+"character": "芬",
+
+"fly_code": "ffcd-",
+{
+"character": "苍",
+
+"fly_code": "chcv-",
+{
+"character": "严",
+
+"fly_code": "yjyp-",
+{
+"character": "芦",
+
+"fly_code": "luch-",
+{
+"character": "杆",
+
+"fly_code": "gjmg-",
+{
+"character": "杠",
+
+"fly_code": "ghmg-",
+{
+"character": "材",
+
+"fly_code": "cdmc-",
+{
+"character": "杏",
+
+"fly_code": "xkmk-",
+{
+"character": "杉",
+
+"fly_code": "ujmp uamp-",
+{
+"character": "巫",
+
+"fly_code": "wugr-",
+{
+"character": "杨",
+
+"fly_code": "yhmp-",
+{
+"character": "束",
+
+"fly_code": "uuan-",
+{
+"character": "还",
+
+"fly_code": "hdzb- hrzb",
+{
+"character": "连",
+
+"fly_code": "lmzi-",
+{
+"character": "轩",
+
+"fly_code": "xrig-",
+{
+"character": "坚",
+
+"fly_code": "jmlt-",
+{
+"character": "旱",
+
+"fly_code": "hjog-",
+{
+"character": "吱",
+
+"fly_code": "viky ziky-",
+{
+"character": "呕",
+
+"fly_code": "oukx-",
+{
+"character": "呀",
+
+"fly_code": "yaky-",
+{
+"character": "吨",
+
+"fly_code": "dykt-",
+{
+"character": "吵",
+
+"fly_code": "icku-",
+{
+"character": "员",
+
+"fly_code": "yrkr- yykr",
+{
+"character": "听",
+
+"fly_code": "tkkj-",
+{
+"character": "吟",
+
+"fly_code": "ybkv-",
+{
+"character": "吩",
+
+"fly_code": "ffkd-",
+{
+"character": "吧",
+
+"fly_code": "bakb-",
+{
+"character": "利",
+
+"fly_code": "lihd-",
+{
+"character": "每",
+
+"fly_code": "mwpm-",
+{
+"character": "伸",
+
+"fly_code": "ufru-",
+{
+"character": "佣",
+
+"fly_code": "ysry-",
+{
+"character": "住",
+
+"fly_code": "vurv-",
+{
+"character": "近",
+
+"fly_code": "jbzj-",
+{
+"character": "役",
+
+"fly_code": "yiiy-",
+{
+"character": "谷",
+
+"fly_code": "gubk-",
+{
+"character": "肝",
+
+"fly_code": "gjog-",
+{
+"character": "龟",
+
+"fly_code": "gvdv- jydv- qqdv-",
+{
+"character": "免",
+
+"fly_code": "mmdv-",
+{
+"character": "狈",
+
+"fly_code": "bwqr-",
+{
+"character": "彤",
+
+"fly_code": "tsdp-",
+{
+"character": "系",
+
+"fly_code": "xipx- jipx-",
+{
+"character": "庇",
+
+"fly_code": "bigb-",
+{
+"character": "疗",
+
+"fly_code": "lnbl-",
+{
+"character": "冷",
+
+"fly_code": "lgds-",
+{
+"character": "辛",
+
+"fly_code": "xblu-",
+{
+"character": "间",
+
+"fly_code": "jmmo-",
+{
+"character": "灿",
+
+"fly_code": "cjhe-",
+{
+"character": "灼",
+
+"fly_code": "vohu-",
+{
+"character": "沙",
+
+"fly_code": "uadu-",
+{
+"character": "没",
+
+"fly_code": "mwdy mody-",
+{
+"character": "沟",
+
+"fly_code": "gzds-",
+{
+"character": "沪",
+
+"fly_code": "hudh-",
+{
+"character": "怀",
+
+"fly_code": "hkxb-",
+{
+"character": "完",
+
+"fly_code": "wjbe-",
+{
+"character": "牢",
+
+"fly_code": "lcbn-",
+{
+"character": "究",
+
+"fly_code": "jqbj-",
+{
+"character": "启",
+
+"fly_code": "qihk-",
+{
+"character": "补",
+
+"fly_code": "bupb-",
+{
+"character": "初",
+
+"fly_code": "iupd-",
+{
+"character": "识",
+
+"fly_code": "uiyb viyb-",
+{
+"character": "词",
+
+"fly_code": "ciyk-",
+{
+"character": "君",
+
+"fly_code": "jyyk-",
+{
+"character": "即",
+
+"fly_code": "jige-",
+{
+"character": "屁",
+
+"fly_code": "piub-",
+{
+"character": "迟",
+
+"fly_code": "iizi-",
+{
+"character": "局",
+
+"fly_code": "juuk-",
+{
+"character": "忌",
+
+"fly_code": "jijx-",
+{
+"character": "妨",
+
+"fly_code": "fhnf-",
+{
+"character": "妒",
+
+"fly_code": "dunh-",
+{
+"character": "劲",
+
+"fly_code": "jbvl- jkvl-",
+{
+"character": "驱",
+
+"fly_code": "qumx-",
+{
+"character": "纵",
+
+"fly_code": "zssr-",
+{
+"character": "纷",
+
+"fly_code": "ffsd-",
+{
+"character": "奉",
+
+"fly_code": "fgfl-",
+{
+"character": "玫",
+
+"fly_code": "mwww-",
+{
+"character": "坷",
+
+"fly_code": "ketk-",
+{
+"character": "拓",
+
+"fly_code": "tafu tofu-",
+{
+"character": "拔",
+
+"fly_code": "bafd-",
+{
+"character": "坦",
+
+"fly_code": "tjta-",
+{
+"character": "拍",
+
+"fly_code": "pdfb-",
+{
+"character": "顶",
+
+"fly_code": "dkdr-",
+{
+"character": "英",
+
+"fly_code": "ykcy-",
+{
+"character": "林",
+
+"fly_code": "lbmm-",
+{
+"character": "杯",
+
+"fly_code": "bwmb-",
+{
+"character": "枚",
+
+"fly_code": "mwmw-",
+{
+"character": "板",
+
+"fly_code": "bjmy-",
+{
+"character": "杭",
+
+"fly_code": "hhmj-",
+{
+"character": "述",
+
+"fly_code": "uuzu-",
+{
+"character": "枕",
+
+"fly_code": "vfmv-",
+{
+"character": "事",
+
+"fly_code": "uial-",
+{
+"character": "郁",
+
+"fly_code": "yuue-",
+{
+"character": "矾",
+
+"fly_code": "fjuf-",
+{
+"character": "奇",
+
+"fly_code": "qidk jidk-",
+{
+"character": "齿",
+
+"fly_code": "iivk-",
+{
+"character": "些",
+
+"fly_code": "xpve-",
+{
+"character": "卓",
+
+"fly_code": "volu-",
+{
+"character": "虎",
+
+"fly_code": "huhj-",
+{
+"character": "尚",
+
+"fly_code": "uhxk-",
+{
+"character": "具",
+
+"fly_code": "juqb-",
+{
+"character": "味",
+
+"fly_code": "wwkw-",
+{
+"character": "固",
+
+"fly_code": "gukk-",
+{
+"character": "咒",
+
+"fly_code": "vzkj-",
+{
+"character": "咏",
+
+"fly_code": "ysky-",
+{
+"character": "咖",
+
+"fly_code": "kakk- gakk",
+{
+"character": "帜",
+
+"fly_code": "vijb-",
+{
+"character": "岭",
+
+"fly_code": "lkes-",
+{
+"character": "贩",
+
+"fly_code": "fjky-",
+{
+"character": "图",
+
+"fly_code": "tukd-",
+{
+"character": "钓",
+
+"fly_code": "dnju-",
+{
+"character": "制",
+
+"fly_code": "vipd-",
+{
+"character": "知",
+
+"fly_code": "viuk-",
+{
+"character": "迭",
+
+"fly_code": "dpzu-",
+{
+"character": "物",
+
+"fly_code": "wunw-",
+{
+"character": "委",
+
+"fly_code": "wwhn-",
+{
+"character": "使",
+
+"fly_code": "uirl-",
+{
+"character": "例",
+
+"fly_code": "lird-",
+{
+"character": "侈",
+
+"fly_code": "iirx-",
+{
+"character": "依",
+
+"fly_code": "yiry-",
+{
+"character": "的",
+
+"fly_code": "debu- dibu-",
+{
+"character": "爬",
+
+"fly_code": "pavb-",
+{
+"character": "径",
+
+"fly_code": "jkig-",
+{
+"character": "爸",
+
+"fly_code": "babb-",
+{
+"character": "贪",
+
+"fly_code": "tjrr-",
+{
+"character": "股",
+
+"fly_code": "guoy-",
+{
+"character": "肪",
+
+"fly_code": "fhof-",
+{
+"character": "周",
+
+"fly_code": "vzkk-",
+{
+"character": "鱼",
+
+"fly_code": "yuda-",
+{
+"character": "京",
+
+"fly_code": "jkwx-",
+{
+"character": "庞",
+
+"fly_code": "phgl-",
+{
+"character": "庙",
+
+"fly_code": "mngy-",
+{
+"character": "府",
+
+"fly_code": "fugc-",
+{
+"character": "底",
+
+"fly_code": "digd-",
+{
+"character": "疚",
+
+"fly_code": "jqbj-",
+{
+"character": "卒",
+
+"fly_code": "zuwu- cuwu-",
+{
+"character": "庚",
+
+"fly_code": "gggn-",
+{
+"character": "废",
+
+"fly_code": "fwgd-",
+{
+"character": "放",
+
+"fly_code": "fhfw-",
+{
+"character": "刻",
+
+"fly_code": "kewd-",
+{
+"character": "卷",
+
+"fly_code": "jrjv-",
+{
+"character": "单",
+
+"fly_code": "djbl- ijbl ujbl-",
+{
+"character": "炬",
+
+"fly_code": "juhj-",
+{
+"character": "炒",
+
+"fly_code": "ichu-",
+{
+"character": "炕",
+
+"fly_code": "khhj-",
+{
+"character": "浅",
+
+"fly_code": "qmdj-",
+{
+"character": "法",
+
+"fly_code": "fads-",
+{
+"character": "泄",
+
+"fly_code": "xpdu-",
+{
+"character": "沽",
+
+"fly_code": "gudk-",
+{
+"character": "河",
+
+"fly_code": "hedk-",
+{
+"character": "沾",
+
+"fly_code": "vjdk-",
+{
+"character": "沮",
+
+"fly_code": "judq-",
+{
+"character": "泡",
+
+"fly_code": "pcds-",
+{
+"character": "注",
+
+"fly_code": "vudv-",
+{
+"character": "泳",
+
+"fly_code": "ysdy-",
+{
+"character": "治",
+
+"fly_code": "vidk-",
+{
+"character": "性",
+
+"fly_code": "xkxu-",
+{
+"character": "怡",
+
+"fly_code": "yixk-",
+{
+"character": "宗",
+
+"fly_code": "zsbx-",
+{
+"character": "官",
+
+"fly_code": "grbk-",
+{
+"character": "帘",
+
+"fly_code": "lmbj-",
+{
+"character": "实",
+
+"fly_code": "uibd-",
+{
+"character": "肩",
+
+"fly_code": "jmho-",
+{
+"character": "诚",
+
+"fly_code": "igyi-",
+{
+"character": "衬",
+
+"fly_code": "ifpc-",
+{
+"character": "祈",
+
+"fly_code": "qipj-",
+{
+"character": "诞",
+
+"fly_code": "djyz-",
+{
+"character": "诡",
+
+"fly_code": "gvyv-",
+{
+"character": "详",
+
+"fly_code": "xlyy-",
+{
+"character": "屈",
+
+"fly_code": "quui-",
+{
+"character": "弥",
+
+"fly_code": "migx-",
+{
+"character": "姑",
+
+"fly_code": "gunk-",
+{
+"character": "姆",
+
+"fly_code": "munm-",
+{
+"character": "线",
+
+"fly_code": "xmsj-",
+{
+"character": "练",
+
+"fly_code": "lmsd-",
+{
+"character": "绅",
+
+"fly_code": "ufsu-",
+{
+"character": "驶",
+
+"fly_code": "uimu-",
+{
+"character": "驹",
+
+"fly_code": "jumk-",
+{
+"character": "驼",
+
+"fly_code": "tomb-",
+{
+"character": "贯",
+
+"fly_code": "grgr-",
+{
+"character": "贰",
+
+"fly_code": "eryr-",
+{
+"character": "奏",
+
+"fly_code": "zzft-",
+{
+"character": "项",
+
+"fly_code": "xlgr-",
+{
+"character": "拾",
+
+"fly_code": "uifk-",
+{
+"character": "垛",
+
+"fly_code": "dotm-",
+{
+"character": "挤",
+
+"fly_code": "jifl-",
+{
+"character": "拯",
+
+"fly_code": "vgfa-",
+{
+"character": "甚",
+
+"fly_code": "ufqv-",
+{
+"character": "带",
+
+"fly_code": "ddfj-",
+{
+"character": "茫",
+
+"fly_code": "mhcw-",
+{
+"character": "胡",
+
+"fly_code": "huuo-",
+{
+"character": "荫",
+
+"fly_code": "ybco-",
+{
+"character": "荔",
+
+"fly_code": "licl-",
+{
+"character": "南",
+
+"fly_code": "njug- naug",
+{
+"character": "标",
+
+"fly_code": "bnmx-",
+{
+"character": "枯",
+
+"fly_code": "kumk-",
+{
+"character": "柄",
+
+"fly_code": "bkmb-",
+{
+"character": "栋",
+
+"fly_code": "dsmd-",
+{
+"character": "相",
+
+"fly_code": "xlmo-",
+{
+"character": "查",
+
+"fly_code": "iama- vama",
+{
+"character": "柱",
+
+"fly_code": "vumv-",
+{
+"character": "要",
+
+"fly_code": "ycxn-",
+{
+"character": "柬",
+
+"fly_code": "jman-",
+{
+"character": "咸",
+
+"fly_code": "xmxk-",
+{
+"character": "威",
+
+"fly_code": "wwxn-",
+{
+"character": "研",
+
+"fly_code": "yjuk-",
+{
+"character": "厘",
+
+"fly_code": "liil-",
+{
+"character": "砌",
+
+"fly_code": "qiud- qpud",
+{
+"character": "残",
+
+"fly_code": "cjdj-",
+{
+"character": "轻",
+
+"fly_code": "qkig-",
+{
+"character": "览",
+
+"fly_code": "ljle-",
+{
+"character": "竖",
+
+"fly_code": "uull-",
+{
+"character": "削",
+
+"fly_code": "xtxd- xnxd",
+{
+"character": "星",
+
+"fly_code": "xkou-",
+{
+"character": "昨",
+
+"fly_code": "zoov-",
+{
+"character": "咧",
+
+"fly_code": "lpkd-",
+{
+"character": "畏",
+
+"fly_code": "wwtn-",
+{
+"character": "胃",
+
+"fly_code": "wwto-",
+{
+"character": "界",
+
+"fly_code": "jptl-",
+{
+"character": "咱",
+
+"fly_code": "zjkz- zakz",
+{
+"character": "哪",
+
+"fly_code": "neke nake- nwke-",
+{
+"character": "贴",
+
+"fly_code": "tpkk-",
+{
+"character": "贻",
+
+"fly_code": "yikk-",
+{
+"character": "钝",
+
+"fly_code": "dyjt-",
+{
+"character": "钟",
+
+"fly_code": "vsjv-",
+{
+"character": "钢",
+
+"fly_code": "ghjx-",
+{
+"character": "钠",
+
+"fly_code": "najn-",
+{
+"character": "钦",
+
+"fly_code": "qbjr-",
+{
+"character": "缸",
+
+"fly_code": "ghfg-",
+{
+"character": "拜",
+
+"fly_code": "bduf-",
+{
+"character": "牲",
+
+"fly_code": "ugnu-",
+{
+"character": "选",
+
+"fly_code": "xrze-",
+{
+"character": "秒",
+
+"fly_code": "mnhu-",
+{
+"character": "香",
+
+"fly_code": "xlho-",
+{
+"character": "种",
+
+"fly_code": "vshv ishv-",
+{
+"character": "秋",
+
+"fly_code": "qqhh-",
+{
+"character": "科",
+
+"fly_code": "kehu-",
+{
+"character": "俩",
+
+"fly_code": "lxrl llrl-",
+{
+"character": "皇",
+
+"fly_code": "hlbw-",
+{
+"character": "泉",
+
+"fly_code": "qrbu-",
+{
+"character": "侵",
+
+"fly_code": "qbry-",
+{
+"character": "禹",
+
+"fly_code": "yupd-",
+{
+"character": "徊",
+
+"fly_code": "hkik-",
+{
+"character": "衍",
+
+"fly_code": "yjii-",
+{
+"character": "须",
+
+"fly_code": "xupr-",
+{
+"character": "逃",
+
+"fly_code": "tczd-",
+{
+"character": "胧",
+
+"fly_code": "lsol-",
+{
+"character": "胆",
+
+"fly_code": "djoa-",
+{
+"character": "胜",
+
+"fly_code": "ugou-",
+{
+"character": "狭",
+
+"fly_code": "xxqj-",
+{
+"character": "独",
+
+"fly_code": "duqi-",
+{
+"character": "狰",
+
+"fly_code": "vgql-",
+{
+"character": "狱",
+
+"fly_code": "yuqq-",
+{
+"character": "急",
+
+"fly_code": "jidx-",
+{
+"character": "蚀",
+
+"fly_code": "uiui-",
+{
+"character": "饼",
+
+"fly_code": "bkuk-",
+{
+"character": "将",
+
+"fly_code": "jldc- qldc-",
+{
+"character": "哀",
+
+"fly_code": "aiwy-",
+{
+"character": "亮",
+
+"fly_code": "llwj-",
+{
+"character": "度",
+
+"fly_code": "dugy- dogy",
+{
+"character": "迹",
+
+"fly_code": "jizd-",
+{
+"character": "亲",
+
+"fly_code": "qblm- qklm-",
+{
+"character": "帝",
+
+"fly_code": "diwj-",
+{
+"character": "阀",
+
+"fly_code": "famg-",
+{
+"character": "阁",
+
+"fly_code": "gemk-",
+{
+"character": "娄",
+
+"fly_code": "lzmn-",
+{
+"character": "总",
+
+"fly_code": "zsbx-",
+{
+"character": "炸",
+
+"fly_code": "vahv-",
+{
+"character": "烁",
+
+"fly_code": "uohl-",
+{
+"character": "炮",
+
+"fly_code": "pchs- bchs",
+{
+"character": "洁",
+
+"fly_code": "jpdk-",
+{
+"character": "柒",
+
+"fly_code": "qidm-",
+{
+"character": "浊",
+
+"fly_code": "vodi-",
+{
+"character": "洗",
+
+"fly_code": "xide-",
+{
+"character": "染",
+
+"fly_code": "rjdm-",
+{
+"character": "洛",
+
+"fly_code": "lodk-",
+{
+"character": "洋",
+
+"fly_code": "yhdy-",
+{
+"character": "津",
+
+"fly_code": "jbdy-",
+{
+"character": "恍",
+
+"fly_code": "hlxw-",
+{
+"character": "恬",
+
+"fly_code": "tmxk-",
+{
+"character": "恤",
+
+"fly_code": "xuxx-",
+{
+"character": "恼",
+
+"fly_code": "ncxk-",
+{
+"character": "举",
+
+"fly_code": "juxl-",
+{
+"character": "宣",
+
+"fly_code": "xrba-",
+{
+"character": "穿",
+
+"fly_code": "irby-",
+{
+"character": "客",
+
+"fly_code": "kebk-",
+{
+"character": "诫",
+
+"fly_code": "jpyc-",
+{
+"character": "诬",
+
+"fly_code": "wuyr-",
+{
+"character": "语",
+
+"fly_code": "yuyk-",
+{
+"character": "扁",
+
+"fly_code": "bmhc- pmhc-",
+{
+"character": "祠",
+
+"fly_code": "cipk-",
+{
+"character": "误",
+
+"fly_code": "wuyt-",
+{
+"character": "说",
+
+"fly_code": "uoye uvye ytye-",
+{
+"character": "眉",
+
+"fly_code": "mwvo-",
+{
+"character": "陨",
+
+"fly_code": "yyer-",
+{
+"character": "院",
+
+"fly_code": "yree-",
+{
+"character": "娇",
+
+"fly_code": "jnnl-",
+{
+"character": "架",
+
+"fly_code": "jxlm-",
+{
+"character": "盈",
+
+"fly_code": "yknm-",
+{
+"character": "癸",
+
+"fly_code": "gvvt-",
+{
+"character": "绝",
+
+"fly_code": "jtsb-",
+{
+"character": "统",
+
+"fly_code": "tsse-",
+{
+"character": "耗",
+
+"fly_code": "hclm-",
+{
+"character": "耙",
+
+"fly_code": "palb balb-",
+{
+"character": "艳",
+
+"fly_code": "yjfb-",
+{
+"character": "班",
+
+"fly_code": "bjww-",
+{
+"character": "顽",
+
+"fly_code": "wjer-",
+{
+"character": "盏",
+
+"fly_code": "vjjm-",
+{
+"character": "匪",
+
+"fly_code": "fwkf-",
+{
+"character": "捕",
+
+"fly_code": "buff-",
+{
+"character": "载",
+
+"fly_code": "zdui-",
+{
+"character": "赶",
+
+"fly_code": "gjtg-",
+{
+"character": "起",
+
+"fly_code": "qitj-",
+{
+"character": "捍",
+
+"fly_code": "hjfg-",
+{
+"character": "都",
+
+"fly_code": "dzle- dule-",
+{
+"character": "捡",
+
+"fly_code": "jmfa-",
+{
+"character": "挨",
+
+"fly_code": "aifu-",
+{
+"character": "莉",
+
+"fly_code": "licd-",
+{
+"character": "荷",
+
+"fly_code": "heck-",
+{
+"character": "莹",
+
+"fly_code": "ykcy-",
+{
+"character": "桂",
+
+"fly_code": "gvmt-",
+{
+"character": "档",
+
+"fly_code": "dhme-",
+{
+"character": "桐",
+
+"fly_code": "tsmk-",
+{
+"character": "株",
+
+"fly_code": "vumv-",
+{
+"character": "桦",
+
+"fly_code": "hxmu-",
+{
+"character": "格",
+
+"fly_code": "gemk-",
+{
+"character": "核",
+
+"fly_code": "hemr- humr",
+{
+"character": "栗",
+
+"fly_code": "lixm-",
+{
+"character": "贾",
+
+"fly_code": "jxxr guxr-",
+{
+"character": "配",
+
+"fly_code": "pwyj-",
+{
+"character": "辱",
+
+"fly_code": "ruic-",
+{
+"character": "砾",
+
+"fly_code": "liul-",
+{
+"character": "础",
+
+"fly_code": "iuui-",
+{
+"character": "原",
+
+"fly_code": "yrix-",
+{
+"character": "逐",
+
+"fly_code": "vuzu-",
+{
+"character": "殉",
+
+"fly_code": "xydo-",
+{
+"character": "较",
+
+"fly_code": "jnix-",
+{
+"character": "毙",
+
+"fly_code": "bibb-",
+{
+"character": "虑",
+
+"fly_code": "lvhx-",
+{
+"character": "监",
+
+"fly_code": "jmlm-",
+{
+"character": "党",
+
+"fly_code": "dhxe-",
+{
+"character": "眠",
+
+"fly_code": "mmom-",
+{
+"character": "哺",
+
+"fly_code": "bukf-",
+{
+"character": "蚌",
+
+"fly_code": "bgif bhif-",
+{
+"character": "蚓",
+
+"fly_code": "ybil-",
+{
+"character": "哩",
+
+"fly_code": "likl-",
+{
+"character": "唧",
+
+"fly_code": "jike-",
+{
+"character": "唉",
+
+"fly_code": "aiku-",
+{
+"character": "赂",
+
+"fly_code": "lukk-",
+{
+"character": "钻",
+
+"fly_code": "zrjk-",
+{
+"character": "钾",
+
+"fly_code": "jxjj-",
+{
+"character": "铅",
+
+"fly_code": "qmjk-",
+{
+"character": "氧",
+
+"fly_code": "yhqy-",
+{
+"character": "秧",
+
+"fly_code": "yhhy-",
+{
+"character": "秩",
+
+"fly_code": "vihu-",
+{
+"character": "笔",
+
+"fly_code": "bivm-",
+{
+"character": "候",
+
+"fly_code": "hzru-",
+{
+"character": "俯",
+
+"fly_code": "furc-",
+{
+"character": "躬",
+
+"fly_code": "gsug-",
+{
+"character": "徐",
+
+"fly_code": "xuih-",
+{
+"character": "般",
+
+"fly_code": "bjvy-",
+{
+"character": "航",
+
+"fly_code": "hhvj-",
+{
+"character": "途",
+
+"fly_code": "tuzh-",
+{
+"character": "拿",
+
+"fly_code": "naru-",
+{
+"character": "豹",
+
+"fly_code": "bcvu-",
+{
+"character": "鸳",
+
+"fly_code": "yrxn-",
+{
+"character": "席",
+
+"fly_code": "xigj-",
+{
+"character": "疹",
+
+"fly_code": "vfbp-",
+{
+"character": "效",
+
+"fly_code": "xnww-",
+{
+"character": "离",
+
+"fly_code": "liwd-",
+{
+"character": "资",
+
+"fly_code": "zidr-",
+{
+"character": "站",
+
+"fly_code": "vjlk-",
+{
+"character": "部",
+
+"fly_code": "bule-",
+{
+"character": "畜",
+
+"fly_code": "iuwt xuwt-",
+{
+"character": "羞",
+
+"fly_code": "xqyi-",
+{
+"character": "羔",
+
+"fly_code": "gcyh-",
+{
+"character": "瓶",
+
+"fly_code": "pkbw-",
+{
+"character": "拳",
+
+"fly_code": "qrju-",
+{
+"character": "粉",
+
+"fly_code": "ffmd-",
+{
+"character": "益",
+
+"fly_code": "yibm-",
+{
+"character": "兼",
+
+"fly_code": "jmbn-",
+{
+"character": "烦",
+
+"fly_code": "fjhr-",
+{
+"character": "烟",
+
+"fly_code": "yjhd-",
+{
+"character": "涛",
+
+"fly_code": "tcdc-",
+{
+"character": "浙",
+
+"fly_code": "vedj-",
+{
+"character": "消",
+
+"fly_code": "xndo-",
+{
+"character": "涂",
+
+"fly_code": "tudh-",
+{
+"character": "浴",
+
+"fly_code": "yudk-",
+{
+"character": "涣",
+
+"fly_code": "hrdd-",
+{
+"character": "涤",
+
+"fly_code": "didm-",
+{
+"character": "流",
+
+"fly_code": "lqdv-",
+{
+"character": "悖",
+
+"fly_code": "bwxz-",
+{
+"character": "悟",
+
+"fly_code": "wuxk-",
+{
+"character": "悔",
+
+"fly_code": "hvxm-",
+{
+"character": "害",
+
+"fly_code": "hdbk-",
+{
+"character": "家",
+
+"fly_code": "jxbu-",
+{
+"character": "窍",
+
+"fly_code": "qnbv-",
+{
+"character": "窄",
+
+"fly_code": "vdbv-",
+{
+"character": "容",
+
+"fly_code": "rsbk-",
+{
+"character": "案",
+
+"fly_code": "anbm-",
+{
+"character": "读",
+
+"fly_code": "duyd- dzyd",
+{
+"character": "扇",
+
+"fly_code": "ujhx-",
+{
+"character": "诽",
+
+"fly_code": "fwyf-",
+{
+"character": "袜",
+
+"fly_code": "wapm-",
+{
+"character": "袍",
+
+"fly_code": "pcps-",
+{
+"character": "谁",
+
+"fly_code": "uwyf uvyf-",
+{
+"character": "冤",
+
+"fly_code": "yrbd-",
+{
+"character": "谅",
+
+"fly_code": "llyx-",
+{
+"character": "谈",
+
+"fly_code": "tjyh-",
+{
+"character": "恳",
+
+"fly_code": "kfgx-",
+{
+"character": "娘",
+
+"fly_code": "nlnl-",
+{
+"character": "预",
+
+"fly_code": "yusr-",
+{
+"character": "绢",
+
+"fly_code": "jrso-",
+{
+"character": "验",
+
+"fly_code": "yjma-",
+{
+"character": "继",
+
+"fly_code": "jisv-",
+{
+"character": "骏",
+
+"fly_code": "jymw-",
+{
+"character": "埠",
+
+"fly_code": "butu-",
+{
+"character": "掏",
+
+"fly_code": "tcff-",
+{
+"character": "接",
+
+"fly_code": "jpfn-",
+{
+"character": "据",
+
+"fly_code": "jufk-",
+{
+"character": "勒",
+
+"fly_code": "legl lwgl-",
+{
+"character": "萌",
+
+"fly_code": "mgco-",
+{
+"character": "萍",
+
+"fly_code": "pkcp-",
+{
+"character": "萧",
+
+"fly_code": "xncs-",
+{
+"character": "械",
+
+"fly_code": "xpmc-",
+{
+"character": "梧",
+
+"fly_code": "wumk-",
+{
+"character": "检",
+
+"fly_code": "jmma-",
+{
+"character": "副",
+
+"fly_code": "fuad-",
+{
+"character": "票",
+
+"fly_code": "pnxx-",
+{
+"character": "酝",
+
+"fly_code": "yyys-",
+{
+"character": "聋",
+
+"fly_code": "lsle-",
+{
+"character": "雪",
+
+"fly_code": "xtye-",
+{
+"character": "辅",
+
+"fly_code": "fuif-",
+{
+"character": "虚",
+
+"fly_code": "xuhy-",
+{
+"character": "眯",
+
+"fly_code": "miom-",
+{
+"character": "晚",
+
+"fly_code": "wjov-",
+{
+"character": "距",
+
+"fly_code": "juzj-",
+{
+"character": "蚯",
+
+"fly_code": "qqiq-",
+{
+"character": "啤",
+
+"fly_code": "piku-",
+{
+"character": "啸",
+
+"fly_code": "xnks-",
+{
+"character": "婴",
+
+"fly_code": "ykkn-",
+{
+"character": "铝",
+
+"fly_code": "lvjk-",
+{
+"character": "铜",
+
+"fly_code": "tsjk-",
+{
+"character": "铭",
+
+"fly_code": "mkjk-",
+{
+"character": "铲",
+
+"fly_code": "ijji-",
+{
+"character": "秸",
+
+"fly_code": "jphk-",
+{
+"character": "秽",
+
+"fly_code": "hvhx-",
+{
+"character": "移",
+
+"fly_code": "yihx-",
+{
+"character": "笨",
+
+"fly_code": "bfvb-",
+{
+"character": "笙",
+
+"fly_code": "ugvu-",
+{
+"character": "假",
+
+"fly_code": "jxry-",
+{
+"character": "衅",
+
+"fly_code": "xbxb-",
+{
+"character": "衔",
+
+"fly_code": "xmii-",
+{
+"character": "盘",
+
+"fly_code": "pjvm-",
+{
+"character": "斜",
+
+"fly_code": "xpru-",
+{
+"character": "脯",
+
+"fly_code": "puof fuof-",
+{
+"character": "凰",
+
+"fly_code": "hljw-",
+{
+"character": "减",
+
+"fly_code": "jmdk-",
+{
+"character": "痒",
+
+"fly_code": "yhby-",
+{
+"character": "庸",
+
+"fly_code": "ysgl-",
+{
+"character": "盗",
+
+"fly_code": "dcdm-",
+{
+"character": "章",
+
+"fly_code": "vhlu-",
+{
+"character": "竟",
+
+"fly_code": "jkle-",
+{
+"character": "族",
+
+"fly_code": "zufu-",
+{
+"character": "望",
+
+"fly_code": "whww-",
+{
+"character": "羚",
+
+"fly_code": "lkys-",
+{
+"character": "盖",
+
+"fly_code": "gdym- geym",
+{
+"character": "眷",
+
+"fly_code": "jrjo-",
+{
+"character": "粘",
+
+"fly_code": "nmmk vjmk-",
+{
+"character": "断",
+
+"fly_code": "drmj-",
+{
+"character": "淹",
+
+"fly_code": "yjdd-",
+{
+"character": "渠",
+
+"fly_code": "qudm-",
+{
+"character": "淳",
+
+"fly_code": "iydz-",
+{
+"character": "淡",
+
+"fly_code": "djdh-",
+{
+"character": "深",
+
+"fly_code": "ufdm-",
+{
+"character": "梁",
+
+"fly_code": "lldm-",
+{
+"character": "悼",
+
+"fly_code": "dcxu-",
+{
+"character": "惧",
+
+"fly_code": "juxb-",
+{
+"character": "惊",
+
+"fly_code": "jkxx-",
+{
+"character": "惦",
+
+"fly_code": "dmxk-",
+{
+"character": "惨",
+
+"fly_code": "cjxp-",
+{
+"character": "寄",
+
+"fly_code": "jibk-",
+{
+"character": "谎",
+
+"fly_code": "hlyv-",
+{
+"character": "谐",
+
+"fly_code": "xpyb-",
+{
+"character": "谜",
+
+"fly_code": "miyz-",
+{
+"character": "敢",
+
+"fly_code": "gjvw-",
+{
+"character": "弹",
+
+"fly_code": "tjgl djgl-",
+{
+"character": "随",
+
+"fly_code": "svez-",
+{
+"character": "蛋",
+
+"fly_code": "djvi-",
+{
+"character": "骑",
+
+"fly_code": "qimk-",
+{
+"character": "绰",
+
+"fly_code": "iosu icsu-",
+{
+"character": "绿",
+
+"fly_code": "lvsu lusu-",
+{
+"character": "巢",
+
+"fly_code": "icvg-",
+{
+"character": "超",
+
+"fly_code": "ictk-",
+{
+"character": "博",
+
+"fly_code": "bouc-",
+{
+"character": "喜",
+
+"fly_code": "xiuk-",
+{
+"character": "彭",
+
+"fly_code": "pgup-",
+{
+"character": "插",
+
+"fly_code": "iafj-",
+{
+"character": "揪",
+
+"fly_code": "jqfh-",
+{
+"character": "搓",
+
+"fly_code": "cofg-",
+{
+"character": "壹",
+
+"fly_code": "yiua-",
+{
+"character": "欺",
+
+"fly_code": "qiqr-",
+{
+"character": "朝",
+
+"fly_code": "icuo vcuo-",
+{
+"character": "棒",
+
+"fly_code": "bhml-",
+{
+"character": "棋",
+
+"fly_code": "qimb-",
+{
+"character": "椅",
+
+"fly_code": "yimk-",
+{
+"character": "棵",
+
+"fly_code": "kemg-",
+{
+"character": "椎",
+
+"fly_code": "vvmf- ivmf",
+{
+"character": "棕",
+
+"fly_code": "zsmx-",
+{
+"character": "棺",
+
+"fly_code": "grmk-",
+{
+"character": "椭",
+
+"fly_code": "tomo-",
+{
+"character": "惑",
+
+"fly_code": "hogx-",
+{
+"character": "粟",
+
+"fly_code": "suxm-",
+{
+"character": "酥",
+
+"fly_code": "suyh-",
+{
+"character": "硬",
+
+"fly_code": "ykug-",
+{
+"character": "硝",
+
+"fly_code": "xnuo-",
+{
+"character": "硫",
+
+"fly_code": "lquv-",
+{
+"character": "雄",
+
+"fly_code": "xsuf-",
+{
+"character": "凿",
+
+"fly_code": "zcyk-",
+{
+"character": "掌",
+
+"fly_code": "vhxu-",
+{
+"character": "暑",
+
+"fly_code": "uuoo-",
+{
+"character": "晶",
+
+"fly_code": "jkoo-",
+{
+"character": "喇",
+
+"fly_code": "lakd-",
+{
+"character": "遇",
+
+"fly_code": "yuzy-",
+{
+"character": "蛛",
+
+"fly_code": "vuiv-",
+{
+"character": "喘",
+
+"fly_code": "irke-",
+{
+"character": "喧",
+
+"fly_code": "xrka-",
+{
+"character": "赋",
+
+"fly_code": "fukv-",
+{
+"character": "锄",
+
+"fly_code": "iujl-",
+{
+"character": "锅",
+
+"fly_code": "gojn-",
+{
+"character": "锌",
+
+"fly_code": "xbju-",
+{
+"character": "智",
+
+"fly_code": "viuo-",
+{
+"character": "稍",
+
+"fly_code": "ucho-",
+{
+"character": "稀",
+
+"fly_code": "xihj-",
+{
+"character": "等",
+
+"fly_code": "dgvc-",
+{
+"character": "筑",
+
+"fly_code": "vuvf-",
+{
+"character": "筛",
+
+"fly_code": "udvj-",
+{
+"character": "筝",
+
+"fly_code": "vgvl-",
+{
+"character": "焦",
+
+"fly_code": "jnrh-",
+{
+"character": "傍",
+
+"fly_code": "bhrf-",
+{
+"character": "皓",
+
+"fly_code": "hcbk-",
+{
+"character": "街",
+
+"fly_code": "jpii-",
+{
+"character": "循",
+
+"fly_code": "xyio-",
+{
+"character": "脾",
+
+"fly_code": "piou-",
+{
+"character": "猩",
+
+"fly_code": "xkqu-",
+{
+"character": "馋",
+
+"fly_code": "ijud-",
+{
+"character": "敦",
+
+"fly_code": "dvww- dyww-",
+{
+"character": "痢",
+
+"fly_code": "libd-",
+{
+"character": "竣",
+
+"fly_code": "jylw-",
+{
+"character": "阔",
+
+"fly_code": "komk-",
+{
+"character": "善",
+
+"fly_code": "ujyk-",
+{
+"character": "道",
+
+"fly_code": "dczz-",
+{
+"character": "遂",
+
+"fly_code": "svzu-",
+{
+"character": "湿",
+
+"fly_code": "uidy-",
+{
+"character": "渴",
+
+"fly_code": "kedv-",
+{
+"character": "溅",
+
+"fly_code": "jmdj-",
+{
+"character": "滑",
+
+"fly_code": "hxdg-",
+{
+"character": "渡",
+
+"fly_code": "dudy-",
+{
+"character": "愕",
+
+"fly_code": "eexk-",
+{
+"character": "富",
+
+"fly_code": "fubt-",
+{
+"character": "窖",
+
+"fly_code": "jnbk-",
+{
+"character": "遍",
+
+"fly_code": "bmzc-",
+{
+"character": "禅",
+
+"fly_code": "ijpl- ujpl",
+{
+"character": "谢",
+
+"fly_code": "xpyc-",
+{
+"character": "属",
+
+"fly_code": "uuuy- vuuy",
+{
+"character": "媒",
+
+"fly_code": "mwnm-",
+{
+"character": "婿",
+
+"fly_code": "xuno-",
+{
+"character": "缆",
+
+"fly_code": "ljse-",
+{
+"character": "缓",
+
+"fly_code": "hrsy-",
+{
+"character": "缔",
+
+"fly_code": "disj-",
+{
+"character": "编",
+
+"fly_code": "bmsc-",
+{
+"character": "缘",
+
+"fly_code": "yrsu-",
+{
+"character": "瑟",
+
+"fly_code": "sewb-",
+{
+"character": "鼓",
+
+"fly_code": "guuy-",
+{
+"character": "搬",
+
+"fly_code": "bjfy-",
+{
+"character": "摇",
+
+"fly_code": "ycff-",
+{
+"character": "摊",
+
+"fly_code": "tjff-",
+{
+"character": "勤",
+
+"fly_code": "qbnl-",
+{
+"character": "蒲",
+
+"fly_code": "pucf-",
+{
+"character": "酪",
+
+"fly_code": "lcyk-",
+{
+"character": "碑",
+
+"fly_code": "bwuu-",
+{
+"character": "碎",
+
+"fly_code": "svuu-",
+{
+"character": "碗",
+
+"fly_code": "wjuv-",
+{
+"character": "碌",
+
+"fly_code": "luuu- lquu*",
+{
+"character": "零",
+
+"fly_code": "lkys-",
+{
+"character": "辑",
+
+"fly_code": "jiie-",
+{
+"character": "输",
+
+"fly_code": "uuid-",
+{
+"character": "龄",
+
+"fly_code": "lkvs-",
+{
+"character": "跪",
+
+"fly_code": "gvzv-",
+{
+"character": "蜂",
+
+"fly_code": "fgif-",
+{
+"character": "蜕",
+
+"fly_code": "tvie-",
+{
+"character": "锦",
+
+"fly_code": "jbjj-",
+{
+"character": "锯",
+
+"fly_code": "jujk-",
+{
+"character": "锰",
+
+"fly_code": "mgjm-",
+{
+"character": "辞",
+
+"fly_code": "ciqu-",
+{
+"character": "颓",
+
+"fly_code": "tvhr-",
+{
+"character": "愁",
+
+"fly_code": "izhx-",
+{
+"character": "舅",
+
+"fly_code": "jqjl-",
+{
+"character": "衙",
+
+"fly_code": "yaii-",
+{
+"character": "颖",
+
+"fly_code": "ykbr-",
+{
+"character": "触",
+
+"fly_code": "iudi-",
+{
+"character": "靖",
+
+"fly_code": "jklo-",
+{
+"character": "数",
+
+"fly_code": "uumw- uomw*",
+{
+"character": "煎",
+
+"fly_code": "jmbh-",
+{
+"character": "煌",
+
+"fly_code": "hlhw-",
+{
+"character": "漠",
+
+"fly_code": "modd-",
+{
+"character": "滥",
+
+"fly_code": "ljdm-",
+{
+"character": "漓",
+
+"fly_code": "lidd-",
+{
+"character": "溢",
+
+"fly_code": "yidm-",
+{
+"character": "滨",
+
+"fly_code": "bbdb-",
+{
+"character": "粱",
+
+"fly_code": "lldm-",
+{
+"character": "慎",
+
+"fly_code": "ufxb-",
+{
+"character": "塞",
+
+"fly_code": "sdbt- sebt",
+{
+"character": "寞",
+
+"fly_code": "mobd-",
+{
+"character": "窟",
+
+"fly_code": "kubi-",
+{
+"character": "谨",
+
+"fly_code": "jbya-",
+{
+"character": "殿",
+
+"fly_code": "dmuy-",
+{
+"character": "障",
+
+"fly_code": "vheu-",
+{
+"character": "媳",
+
+"fly_code": "xinx-",
+{
+"character": "嫉",
+
+"fly_code": "jinu-",
+{
+"character": "嫁",
+
+"fly_code": "jxnu-",
+{
+"character": "碧",
+
+"fly_code": "biwu-",
+{
+"character": "璃",
+
+"fly_code": "liwd-",
+{
+"character": "墟",
+
+"fly_code": "xuty-",
+{
+"character": "嘉",
+
+"fly_code": "jxuk-",
+{
+"character": "兢",
+
+"fly_code": "jkue-",
+{
+"character": "槛",
+
+"fly_code": "kjmm jmmm-",
+{
+"character": "榨",
+
+"fly_code": "vamv-",
+{
+"character": "歌",
+
+"fly_code": "gedr-",
+{
+"character": "酵",
+
+"fly_code": "jnyz-",
+{
+"character": "碳",
+
+"fly_code": "tjuh-",
+{
+"character": "裳",
+
+"fly_code": "uhxy- ihxy",
+{
+"character": "颗",
+
+"fly_code": "kegr-",
+{
+"character": "嘛",
+
+"fly_code": "makm-",
+{
+"character": "稳",
+
+"fly_code": "wfhx-",
+{
+"character": "箫",
+
+"fly_code": "xnvs-",
+{
+"character": "魅",
+
+"fly_code": "mwgw-",
+{
+"character": "貌",
+
+"fly_code": "mcve-",
+{
+"character": "豪",
+
+"fly_code": "hcwu-",
+{
+"character": "瘩",
+
+"fly_code": "dabk-",
+{
+"character": "瘟",
+
+"fly_code": "wfbm-",
+{
+"character": "竭",
+
+"fly_code": "jplv-",
+{
+"character": "端",
+
+"fly_code": "drle-",
+{
+"character": "精",
+
+"fly_code": "jkmo-",
+{
+"character": "熄",
+
+"fly_code": "xihx-",
+{
+"character": "漆",
+
+"fly_code": "qidu-",
+{
+"character": "漾",
+
+"fly_code": "yhdy-",
+{
+"character": "演",
+
+"fly_code": "yjdb-",
+{
+"character": "漏",
+
+"fly_code": "lzdy-",
+{
+"character": "蜜",
+
+"fly_code": "mibi-",
+{
+"character": "谭",
+
+"fly_code": "tjyu-",
+{
+"character": "肇",
+
+"fly_code": "vchy-",
+{
+"character": "翠",
+
+"fly_code": "cvxu-",
+{
+"character": "骡",
+
+"fly_code": "lomx-",
+{
+"character": "撵",
+
+"fly_code": "nmfi-",
+{
+"character": "趟",
+
+"fly_code": "thtk-",
+{
+"character": "撑",
+
+"fly_code": "igfu-",
+{
+"character": "撤",
+
+"fly_code": "iefw-",
+{
+"character": "蕉",
+
+"fly_code": "jnch-",
+{
+"character": "樱",
+
+"fly_code": "ykmn-",
+{
+"character": "樟",
+
+"fly_code": "vhmu-",
+{
+"character": "敷",
+
+"fly_code": "fufw-",
+{
+"character": "醇",
+
+"fly_code": "iyyz-",
+{
+"character": "霉",
+
+"fly_code": "mwym-",
+{
+"character": "暴",
+
+"fly_code": "bcou- puou",
+{
+"character": "嘶",
+
+"fly_code": "sikj-",
+{
+"character": "蝗",
+
+"fly_code": "hliw-",
+{
+"character": "镇",
+
+"fly_code": "vfjb-",
+{
+"character": "镐",
+
+"fly_code": "gcjk- hcjk",
+{
+"character": "稽",
+
+"fly_code": "jiho-",
+{
+"character": "稻",
+
+"fly_code": "dchj-",
+{
+"character": "稿",
+
+"fly_code": "gchk-",
+{
+"character": "稼",
+
+"fly_code": "jxhu-",
+{
+"character": "僻",
+
+"fly_code": "piru-",
+{
+"character": "膝",
+
+"fly_code": "xiou-",
+{
+"character": "熟",
+
+"fly_code": "uuwh uzwh-",
+{
+"character": "摩",
+
+"fly_code": "mogu- magu",
+{
+"character": "颜",
+
+"fly_code": "yjir-",
+{
+"character": "毅",
+
+"fly_code": "yily-",
+{
+"character": "潮",
+
+"fly_code": "icdo-",
+{
+"character": "澄",
+
+"fly_code": "igda dgda-",
+{
+"character": "燕",
+
+"fly_code": "yjnh-",
+{
+"character": "蕾",
+
+"fly_code": "lwct-",
+{
+"character": "薯",
+
+"fly_code": "uuco-",
+{
+"character": "薇",
+
+"fly_code": "wwcw-",
+{
+"character": "橘",
+
+"fly_code": "jumk-",
+{
+"character": "整",
+
+"fly_code": "vguv-",
+{
+"character": "醒",
+
+"fly_code": "xkyu-",
+{
+"character": "冀",
+
+"fly_code": "jilb-",
+{
+"character": "螃",
+
+"fly_code": "phif-",
+{
+"character": "鹦",
+
+"fly_code": "ykkn-",
+{
+"character": "黔",
+
+"fly_code": "qmhv-",
+{
+"character": "衡",
+
+"fly_code": "hgii-",
+{
+"character": "磨",
+
+"fly_code": "mogu-",
+{
+"character": "瘸",
+
+"fly_code": "qtbr-",
+{
+"character": "辨",
+
+"fly_code": "bmlu-",
+{
+"character": "辩",
+
+"fly_code": "bmlu-",
+{
+"character": "澡",
+
+"fly_code": "zcdm-",
+{
+"character": "窿",
+
+"fly_code": "lsbu-",
+{
+"character": "避",
+
+"fly_code": "bizu-",
+{
+"character": "藉",
+
+"fly_code": "jico- jpco",
+{
+"character": "檐",
+
+"fly_code": "yjmk-",
+{
+"character": "礁",
+
+"fly_code": "jnuh-",
+{
+"character": "霞",
+
+"fly_code": "xxyy-",
+{
+"character": "瞳",
+
+"fly_code": "tsol-",
+{
+"character": "蟀",
+
+"fly_code": "ukiu-",
+{
+"character": "穗",
+
+"fly_code": "svhx-",
+{
+"character": "赢",
+
+"fly_code": "ykwf-",
+{
+"character": "豁",
+
+"fly_code": "hobk-",
+{
+"character": "翼",
+
+"fly_code": "yixb-",
+{
+"character": "鞭",
+
+"fly_code": "bmgg-",
+{
+"character": "翻",
+
+"fly_code": "fjpx-",
+{
+"character": "瀑",
+
+"fly_code": "pudu- bcdu-",
+{
+"character": "璧",
+
+"fly_code": "biuy-",
+{
+"character": "蘑",
+
+"fly_code": "mocu-",
+{
+"character": "曝",
+
+"fly_code": "bcou puou-",
+{
+"character": "蟹",
+
+"fly_code": "xpdi-",
+{
+"character": "瓣",
+
+"fly_code": "bjlu-",
+{
+"character": "爆",
+
+"fly_code": "bchu-",
+{
+"character": "壤",
+
+"fly_code": "rhty-",
+{
+"character": "馨",
+
+"fly_code": "xbuo-",
+{
+"character": "巍",
+
+"fly_code": "wweg-",
+{
+"character": "露",
+
+"fly_code": "luyk- lzyk",
+{
+"character": "霹",
+
+"fly_code": "piyu-",
+{
+"character": "罐",
+
+"fly_code": "grff-",
+{
+"character": "丏",
+
+"fly_code": "mmav-",
+{
+"character": "厄",
+
+"fly_code": "eeiv-",
+{
+"character": "讣",
+
+"fly_code": "fuyb-",
+{
+"character": "氐",
+
+"fly_code": "diud-",
+{
+"character": "汀",
+
+"fly_code": "tkdd-",
+{
+"character": "尻",
+
+"fly_code": "kcuj-",
+{
+"character": "匡",
+
+"fly_code": "klkw-",
+{
+"character": "玑",
+
+"fly_code": "jiwj-",
+{
+"character": "圬",
+
+"fly_code": "wutk-",
+{
+"character": "圯",
+
+"fly_code": "yits-",
+{
+"character": "芑",
+
+"fly_code": "qicj-",
+{
+"character": "厍",
+
+"fly_code": "ueii-",
+{
+"character": "氘",
+
+"fly_code": "dcql-",
+{
+"character": "汆",
+
+"fly_code": "crru-",
+{
+"character": "凫",
+
+"fly_code": "fupj-",
+{
+"character": "聿",
+
+"fly_code": "yuvl-",
+{
+"character": "阪",
+
+"fly_code": "bjey-",
+{
+"character": "坂",
+
+"fly_code": "bjty-",
+{
+"character": "邯",
+
+"fly_code": "hjge-",
+{
+"character": "苣",
+
+"fly_code": "jucj- qucj",
+{
+"character": "苌",
+
+"fly_code": "ihci-",
+{
+"character": "轫",
+
+"fly_code": "rfir-",
+{
+"character": "邺",
+
+"fly_code": "yeye-",
+{
+"character": "町",
+
+"fly_code": "dktd tktd-",
+{
+"character": "呗",
+
+"fly_code": "bwkr- bdkr",
+{
+"character": "岘",
+
+"fly_code": "xmee-",
+{
+"character": "钋",
+
+"fly_code": "pojb-",
+{
+"character": "迕",
+
+"fly_code": "wuzw-",
+{
+"character": "氚",
+
+"fly_code": "irqi-",
+{
+"character": "彷",
+
+"fly_code": "fhif- phif",
+{
+"character": "奂",
+
+"fly_code": "hrdd-",
+{
+"character": "邹",
+
+"fly_code": "zzde-",
+{
+"character": "庋",
+
+"fly_code": "gvgy-",
+{
+"character": "闱",
+
+"fly_code": "wwmw-",
+{
+"character": "羌",
+
+"fly_code": "qlyv-",
+{
+"character": "沅",
+
+"fly_code": "yrde-",
+{
+"character": "沔",
+
+"fly_code": "mmdm-",
+{
+"character": "沂",
+
+"fly_code": "yidj-",
+{
+"character": "汾",
+
+"fly_code": "ffdd-",
+{
+"character": "忡",
+
+"fly_code": "isxv-",
+{
+"character": "怅",
+
+"fly_code": "ihxi-",
+{
+"character": "忭",
+
+"fly_code": "bmxb-",
+{
+"character": "诂",
+
+"fly_code": "guyk-",
+{
+"character": "诃",
+
+"fly_code": "heyk-",
+{
+"character": "诌",
+
+"fly_code": "vzye-",
+{
+"character": "诏",
+
+"fly_code": "vcyk-",
+{
+"character": "妗",
+
+"fly_code": "jbnv-",
+{
+"character": "妞",
+
+"fly_code": "nqni-",
+{
+"character": "纭",
+
+"fly_code": "yyss-",
+{
+"character": "玢",
+
+"fly_code": "bbwd ffwd-",
+{
+"character": "玦",
+
+"fly_code": "jtwg-",
+{
+"character": "垆",
+
+"fly_code": "lutu-",
+{
+"character": "抻",
+
+"fly_code": "iffu-",
+{
+"character": "苜",
+
+"fly_code": "muco-",
+{
+"character": "茌",
+
+"fly_code": "iicu-",
+{
+"character": "枇",
+
+"fly_code": "pimb-",
+{
+"character": "杳",
+
+"fly_code": "ycmo-",
+{
+"character": "枋",
+
+"fly_code": "fhmf-",
+{
+"character": "杻",
+
+"fly_code": "nqmi izmi-",
+{
+"character": "刳",
+
+"fly_code": "kudd-",
+{
+"character": "咂",
+
+"fly_code": "zakj-",
+{
+"character": "炅",
+
+"fly_code": "jsoh- gvoh",
+{
+"character": "呤",
+
+"fly_code": "lkks-",
+{
+"character": "咚",
+
+"fly_code": "dskd-",
+{
+"character": "咆",
+
+"fly_code": "pcks-",
+{
+"character": "咛",
+
+"fly_code": "nkkd-",
+{
+"character": "帙",
+
+"fly_code": "viju-",
+{
+"character": "沓",
+
+"fly_code": "dauo tauo-",
+{
+"character": "囹",
+
+"fly_code": "lkks-",
+{
+"character": "钍",
+
+"fly_code": "tujt-",
+{
+"character": "钒",
+
+"fly_code": "fjjf-",
+{
+"character": "钗",
+
+"fly_code": "idji-",
+{
+"character": "佰",
+
+"fly_code": "bdrb-",
+{
+"character": "枭",
+
+"fly_code": "xnpm-",
+{
+"character": "冼",
+
+"fly_code": "xmde-",
+{
+"character": "炘",
+
+"fly_code": "xbhj-",
+{
+"character": "泸",
+
+"fly_code": "ludu-",
+{
+"character": "泠",
+
+"fly_code": "lkds-",
+{
+"character": "泓",
+
+"fly_code": "hsds-",
+{
+"character": "怙",
+
+"fly_code": "huxk-",
+{
+"character": "怵",
+
+"fly_code": "iuxu-",
+{
+"character": "㤘",
+
+"fly_code": "vzxe-",
+{
+"character": "宕",
+
+"fly_code": "dhbu-",
+{
+"character": "诘",
+
+"fly_code": "jiyk jpyk-",
+{
+"character": "妲",
+
+"fly_code": "dana-",
+{
+"character": "虱",
+
+"fly_code": "uivi-",
+{
+"character": "迦",
+
+"fly_code": "jxzk-",
+{
+"character": "绁",
+
+"fly_code": "xpsu-",
+{
+"character": "驸",
+
+"fly_code": "fumc-",
+{
+"character": "绌",
+
+"fly_code": "iusi-",
+{
+"character": "垌",
+
+"fly_code": "tstk dstk-",
+{
+"character": "荚",
+
+"fly_code": "jxcj-",
+{
+"character": "荇",
+
+"fly_code": "xkci-",
+{
+"character": "荬",
+
+"fly_code": "mdcd-",
+{
+"character": "柩",
+
+"fly_code": "jqmj-",
+{
+"character": "枳",
+
+"fly_code": "vimb-",
+{
+"character": "枸",
+
+"fly_code": "gzmk- jumk*",
+{
+"character": "枷",
+
+"fly_code": "jxmk-",
+{
+"character": "郦",
+
+"fly_code": "lile-",
+{
+"character": "砗",
+
+"fly_code": "ieui-",
+{
+"character": "砭",
+
+"fly_code": "bmuf-",
+{
+"character": "殇",
+
+"fly_code": "uhdp-",
+{
+"character": "殆",
+
+"fly_code": "dddk-",
+{
+"character": "轳",
+
+"fly_code": "luiu-",
+{
+"character": "眄",
+
+"fly_code": "mmom-",
+{
+"character": "𠳐",
+
+"fly_code": "bhke-",
+{
+"character": "禺",
+
+"fly_code": "yuld-",
+{
+"character": "哂",
+
+"fly_code": "ufkx-",
+{
+"character": "咦",
+
+"fly_code": "yiky-",
+{
+"character": "剐",
+
+"fly_code": "gxkd-",
+{
+"character": "咯",
+
+"fly_code": "gekk lokk kakk-",
+{
+"character": "峤",
+
+"fly_code": "qnel jnel-",
+{
+"character": "贶",
+
+"fly_code": "klke-",
+{
+"character": "钚",
+
+"fly_code": "bujb-",
+{
+"character": "秕",
+
+"fly_code": "bihb-",
+{
+"character": "笈",
+
+"fly_code": "jivj-",
+{
+"character": "俨",
+
+"fly_code": "yjry-",
+{
+"character": "俚",
+
+"fly_code": "lirl-",
+{
+"character": "逅",
+
+"fly_code": "hzzk-",
+{
+"character": "徉",
+
+"fly_code": "yhiy-",
+{
+"character": "舢",
+
+"fly_code": "ujve-",
+{
+"character": "胂",
+
+"fly_code": "ufou-",
+{
+"character": "鸨",
+
+"fly_code": "bcbn-",
+{
+"character": "奕",
+
+"fly_code": "yiwd-",
+{
+"character": "庠",
+
+"fly_code": "xlgy-",
+{
+"character": "竑",
+
+"fly_code": "hsls-",
+{
+"character": "炯",
+
+"fly_code": "jshk-",
+{
+"character": "浃",
+
+"fly_code": "jxdj-",
+{
+"character": "恸",
+
+"fly_code": "tsxl-",
+{
+"character": "恹",
+
+"fly_code": "yjxq-",
+{
+"character": "恪",
+
+"fly_code": "kexk-",
+{
+"character": "祛",
+
+"fly_code": "qups-",
+{
+"character": "祗",
+
+"fly_code": "vipd-",
+{
+"character": "诳",
+
+"fly_code": "klyw-",
+{
+"character": "咫",
+
+"fly_code": "viib-",
+{
+"character": "姝",
+
+"fly_code": "uunv-",
+{
+"character": "怼",
+
+"fly_code": "dvyx-",
+{
+"character": "矜",
+
+"fly_code": "jbsv- qbsv- grsv",
+{
+"character": "骁",
+
+"fly_code": "xnmw-",
+{
+"character": "骅",
+
+"fly_code": "hxmu-",
+{
+"character": "耖",
+
+"fly_code": "iclu-",
+{
+"character": "挈",
+
+"fly_code": "qpfu-",
+{
+"character": "珲",
+
+"fly_code": "hvwi- hywi-",
+{
+"character": "耆",
+
+"fly_code": "qilo-",
+{
+"character": "莆",
+
+"fly_code": "pucf-",
+{
+"character": "莞",
+
+"fly_code": "grce- wjce",
+{
+"character": "莨",
+
+"fly_code": "llcl- lhcl-",
+{
+"character": "栝",
+
+"fly_code": "komk gxmk-",
+{
+"character": "栟",
+
+"fly_code": "bfmk-",
+{
+"character": "彧",
+
+"fly_code": "yuad-",
+{
+"character": "逦",
+
+"fly_code": "lizl-",
+{
+"character": "砧",
+
+"fly_code": "vfuk-",
+{
+"character": "砷",
+
+"fly_code": "ufuu-",
+{
+"character": "轼",
+
+"fly_code": "uiig-",
+{
+"character": "眩",
+
+"fly_code": "xroy-",
+{
+"character": "趵",
+
+"fly_code": "bczu-",
+{
+"character": "蚬",
+
+"fly_code": "xmie-",
+{
+"character": "圄",
+
+"fly_code": "yukk-",
+{
+"character": "觊",
+
+"fly_code": "jiee-",
+{
+"character": "钴",
+
+"fly_code": "gujk-",
+{
+"character": "钺",
+
+"fly_code": "ytjv-",
+{
+"character": "铀",
+
+"fly_code": "yzjy-",
+{
+"character": "铂",
+
+"fly_code": "bojb-",
+{
+"character": "铊",
+
+"fly_code": "tojb- tajb-",
+{
+"character": "铋",
+
+"fly_code": "bijb-",
+{
+"character": "舐",
+
+"fly_code": "uiqu-",
+{
+"character": "笕",
+
+"fly_code": "jmve-",
+{
+"character": "笊",
+
+"fly_code": "vcvv-",
+{
+"character": "俳",
+
+"fly_code": "pdrf-",
+{
+"character": "倏",
+
+"fly_code": "uurq-",
+{
+"character": "俾",
+
+"fly_code": "biru-",
+{
+"character": "郫",
+
+"fly_code": "pipe-",
+{
+"character": "徕",
+
+"fly_code": "ldil-",
+{
+"character": "舫",
+
+"fly_code": "fhvf-",
+{
+"character": "奚",
+
+"fly_code": "xipd-",
+{
+"character": "狺",
+
+"fly_code": "ybqk-",
+{
+"character": "桀",
+
+"fly_code": "jpxm-",
+{
+"character": "疳",
+
+"fly_code": "gjbg-",
+{
+"character": "凋",
+
+"fly_code": "dndk-",
+{
+"character": "粑",
+
+"fly_code": "bamb-",
+{
+"character": "烨",
+
+"fly_code": "yehu-",
+{
+"character": "烩",
+
+"fly_code": "hvhs-",
+{
+"character": "郯",
+
+"fly_code": "tjhe-",
+{
+"character": "涑",
+
+"fly_code": "sudu-",
+{
+"character": "浠",
+
+"fly_code": "xidj-",
+{
+"character": "悌",
+
+"fly_code": "tixp-",
+{
+"character": "诹",
+
+"fly_code": "zzyy-",
+{
+"character": "冢",
+
+"fly_code": "vsbn-",
+{
+"character": "谂",
+
+"fly_code": "ufyx-",
+{
+"character": "谄",
+
+"fly_code": "ijyj-",
+{
+"character": "蚩",
+
+"fly_code": "iivi-",
+{
+"character": "娴",
+
+"fly_code": "xmnm-",
+{
+"character": "娓",
+
+"fly_code": "wwnm-",
+{
+"character": "畚",
+
+"fly_code": "bfst-",
+{
+"character": "骊",
+
+"fly_code": "liml-",
+{
+"character": "绡",
+
+"fly_code": "xnso-",
+{
+"character": "耜",
+
+"fly_code": "silk-",
+{
+"character": "舂",
+
+"fly_code": "isfj-",
+{
+"character": "埯",
+
+"fly_code": "antd-",
+{
+"character": "逵",
+
+"fly_code": "kvzt-",
+{
+"character": "萸",
+
+"fly_code": "yucy-",
+{
+"character": "萃",
+
+"fly_code": "cvcu-",
+{
+"character": "梵",
+
+"fly_code": "fjmf-",
+{
+"character": "梓",
+
+"fly_code": "zimu-",
+{
+"character": "啬",
+
+"fly_code": "seuk-",
+{
+"character": "硒",
+
+"fly_code": "xiux-",
+{
+"character": "硖",
+
+"fly_code": "xxuj-",
+{
+"character": "硌",
+
+"fly_code": "geuk- louk",
+{
+"character": "匏",
+
+"fly_code": "pcds-",
+{
+"character": "龚",
+
+"fly_code": "gslb-",
+{
+"character": "殒",
+
+"fly_code": "yydr-",
+{
+"character": "殓",
+
+"fly_code": "lmda-",
+{
+"character": "啧",
+
+"fly_code": "zekr-",
+{
+"character": "眺",
+
+"fly_code": "tnod-",
+{
+"character": "晞",
+
+"fly_code": "xioj-",
+{
+"character": "蚶",
+
+"fly_code": "hjig-",
+{
+"character": "蛆",
+
+"fly_code": "quiq-",
+{
+"character": "啖",
+
+"fly_code": "djkh-",
+{
+"character": "铧",
+
+"fly_code": "hxju-",
+{
+"character": "铬",
+
+"fly_code": "gejk-",
+{
+"character": "铰",
+
+"fly_code": "jnjx-",
+{
+"character": "铵",
+
+"fly_code": "anjn-",
+{
+"character": "铷",
+
+"fly_code": "rujk-",
+{
+"character": "笮",
+
+"fly_code": "zovv zevv-",
+{
+"character": "偬",
+
+"fly_code": "zsrx-",
+{
+"character": "偻",
+
+"fly_code": "lvrn lzrn-",
+{
+"character": "徜",
+
+"fly_code": "ihik-",
+{
+"character": "舷",
+
+"fly_code": "xmvy-",
+{
+"character": "猗",
+
+"fly_code": "yiqk-",
+{
+"character": "斛",
+
+"fly_code": "hudu-",
+{
+"character": "馗",
+
+"fly_code": "kvjz-",
+{
+"character": "鸾",
+
+"fly_code": "lrwn-",
+{
+"character": "庾",
+
+"fly_code": "yugy-",
+{
+"character": "翊",
+
+"fly_code": "yilx-",
+{
+"character": "粕",
+
+"fly_code": "pomb-",
+{
+"character": "渍",
+
+"fly_code": "zidr-",
+{
+"character": "渚",
+
+"fly_code": "vudo-",
+{
+"character": "淞",
+
+"fly_code": "ssds-",
+{
+"character": "淠",
+
+"fly_code": "pidl-",
+{
+"character": "涸",
+
+"fly_code": "hedk-",
+{
+"character": "渑",
+
+"fly_code": "mmdd ugdd-",
+{
+"character": "淦",
+
+"fly_code": "gjdj-",
+{
+"character": "惆",
+
+"fly_code": "izxk-",
+{
+"character": "惮",
+
+"fly_code": "djxl-",
+{
+"character": "谏",
+
+"fly_code": "jmyj-",
+{
+"character": "谑",
+
+"fly_code": "xtya-",
+{
+"character": "谛",
+
+"fly_code": "diyj-",
+{
+"character": "谝",
+
+"fly_code": "pmyc-",
+{
+"character": "隍",
+
+"fly_code": "hlew-",
+{
+"character": "婊",
+
+"fly_code": "bnny-",
+{
+"character": "绶",
+
+"fly_code": "uzsy-",
+{
+"character": "琰",
+
+"fly_code": "yjwh-",
+{
+"character": "琮",
+
+"fly_code": "cswx-",
+{
+"character": "琚",
+
+"fly_code": "juwk-",
+{
+"character": "趄",
+
+"fly_code": "qptq jutq-",
+{
+"character": "揄",
+
+"fly_code": "yufd-",
+{
+"character": "葳",
+
+"fly_code": "wwcn-",
+{
+"character": "戟",
+
+"fly_code": "jiug-",
+{
+"character": "棹",
+
+"fly_code": "vcmu-",
+{
+"character": "覃",
+
+"fly_code": "qbxu tjxu-",
+{
+"character": "鹂",
+
+"fly_code": "liln-",
+{
+"character": "斐",
+
+"fly_code": "fwfw-",
+{
+"character": "跗",
+
+"fly_code": "fuzc-",
+{
+"character": "跆",
+
+"fly_code": "tdzk-",
+{
+"character": "蛱",
+
+"fly_code": "jxij-",
+{
+"character": "蛴",
+
+"fly_code": "qiil-",
+{
+"character": "锂",
+
+"fly_code": "lijl-",
+{
+"character": "锉",
+
+"fly_code": "cojt-",
+{
+"character": "锑",
+
+"fly_code": "tijp-",
+{
+"character": "嵇",
+
+"fly_code": "jihe-",
+{
+"character": "黍",
+
+"fly_code": "uuhu-",
+{
+"character": "筵",
+
+"fly_code": "yjvz-",
+{
+"character": "牍",
+
+"fly_code": "dupd-",
+{
+"character": "翕",
+
+"fly_code": "xirx-",
+{
+"character": "腈",
+
+"fly_code": "jkoo-",
+{
+"character": "腌",
+
+"fly_code": "aaod yjod-",
+{
+"character": "腆",
+
+"fly_code": "tmob-",
+{
+"character": "鱿",
+
+"fly_code": "yzay-",
+{
+"character": "猥",
+
+"fly_code": "wwqn-",
+{
+"character": "飓",
+
+"fly_code": "jujb-",
+{
+"character": "馇",
+
+"fly_code": "iaua-",
+{
+"character": "痧",
+
+"fly_code": "uabu-",
+{
+"character": "竦",
+
+"fly_code": "sslu-",
+{
+"character": "湛",
+
+"fly_code": "vjdv-",
+{
+"character": "湟",
+
+"fly_code": "hldw-",
+{
+"character": "惺",
+
+"fly_code": "xkxu-",
+{
+"character": "愎",
+
+"fly_code": "bixw-",
+{
+"character": "喾",
+
+"fly_code": "kuxk-",
+{
+"character": "寐",
+
+"fly_code": "mwbw-",
+{
+"character": "谠",
+
+"fly_code": "dhye-",
+{
+"character": "巯",
+
+"fly_code": "qqvv-",
+{
+"character": "婺",
+
+"fly_code": "wusn-",
+{
+"character": "飨",
+
+"fly_code": "xlxl-",
+{
+"character": "瑗",
+
+"fly_code": "yrwy-",
+{
+"character": "韫",
+
+"fly_code": "yywm-",
+{
+"character": "鄢",
+
+"fly_code": "yjve-",
+{
+"character": "蜇",
+
+"fly_code": "vefi-",
+{
+"character": "蓁",
+
+"fly_code": "vfch-",
+{
+"character": "蓍",
+
+"fly_code": "uico-",
+{
+"character": "蓟",
+
+"fly_code": "jicd-",
+{
+"character": "蒴",
+
+"fly_code": "uoco-",
+{
+"character": "楂",
+
+"fly_code": "vama- iama",
+{
+"character": "楝",
+
+"fly_code": "lmmj-",
+{
+"character": "槌",
+
+"fly_code": "ivmz-",
+{
+"character": "楹",
+
+"fly_code": "ykmm-",
+{
+"character": "酮",
+
+"fly_code": "tsyk-",
+{
+"character": "酩",
+
+"fly_code": "mkyk-",
+{
+"character": "蜃",
+
+"fly_code": "ufii-",
+{
+"character": "龃",
+
+"fly_code": "juvq-",
+{
+"character": "龅",
+
+"fly_code": "bcvs-",
+{
+"character": "虞",
+
+"fly_code": "yuht-",
+{
+"character": "韪",
+
+"fly_code": "wwow-",
+{
+"character": "嗬",
+
+"fly_code": "hekk-",
+{
+"character": "遢",
+
+"fly_code": "tazx-",
+{
+"character": "跹",
+
+"fly_code": "xmzz-",
+{
+"character": "蜍",
+
+"fly_code": "iuih-",
+{
+"character": "蜉",
+
+"fly_code": "fuiz-",
+{
+"character": "蛹",
+
+"fly_code": "ysiy-",
+{
+"character": "嗯",
+
+"fly_code": "ogkx onkx enkx-",
+{
+"character": "嵊",
+
+"fly_code": "ugen-",
+{
+"character": "锱",
+
+"fly_code": "zijt-",
+{
+"character": "稗",
+
+"fly_code": "bdhu-",
+{
+"character": "筠",
+
+"fly_code": "jyvd yyvd-",
+{
+"character": "牒",
+
+"fly_code": "dppm-",
+{
+"character": "艄",
+
+"fly_code": "ucvo-",
+{
+"character": "觎",
+
+"fly_code": "yure-",
+{
+"character": "肄",
+
+"fly_code": "yiby-",
+{
+"character": "飕",
+
+"fly_code": "szjy-",
+{
+"character": "馐",
+
+"fly_code": "xqui-",
+{
+"character": "鹑",
+
+"fly_code": "iywn-",
+{
+"character": "痱",
+
+"fly_code": "fwbf-",
+{
+"character": "痿",
+
+"fly_code": "wwbn-",
+{
+"character": "雍",
+
+"fly_code": "yswf-",
+{
+"character": "豢",
+
+"fly_code": "hrju-",
+{
+"character": "煅",
+
+"fly_code": "drhy-",
+{
+"character": "煸",
+
+"fly_code": "bmhc-",
+{
+"character": "溱",
+
+"fly_code": "qbdh vfdh-",
+{
+"character": "溻",
+
+"fly_code": "tadx-",
+{
+"character": "慊",
+
+"fly_code": "qmxn- qpxn*",
+{
+"character": "骞",
+
+"fly_code": "qmbm-",
+{
+"character": "嫔",
+
+"fly_code": "pbnb-",
+{
+"character": "缙",
+
+"fly_code": "jbso-",
+{
+"character": "骝",
+
+"fly_code": "lqmt-",
+{
+"character": "瑶",
+
+"fly_code": "ycwf-",
+{
+"character": "墒",
+
+"fly_code": "uhtk-",
+{
+"character": "蔟",
+
+"fly_code": "cucu-",
+{
+"character": "戬",
+
+"fly_code": "jmyg-",
+{
+"character": "榧",
+
+"fly_code": "fwmf-",
+{
+"character": "榻",
+
+"fly_code": "tamx-",
+{
+"character": "槁",
+
+"fly_code": "gcmk-",
+{
+"character": "槟",
+
+"fly_code": "bbmb bkmb-",
+{
+"character": "酽",
+
+"fly_code": "yjyy-",
+{
+"character": "厮",
+
+"fly_code": "siij-",
+{
+"character": "碴",
+
+"fly_code": "iaua-",
+{
+"character": "霆",
+
+"fly_code": "tkyz-",
+{
+"character": "龈",
+
+"fly_code": "ybvg- kfvg",
+{
+"character": "睽",
+
+"fly_code": "kvot-",
+{
+"character": "嘞",
+
+"fly_code": "lekl- lwkl-",
+{
+"character": "嘘",
+
+"fly_code": "xuky- uiky",
+{
+"character": "幔",
+
+"fly_code": "mjjy-",
+{
+"character": "锶",
+
+"fly_code": "sijx-",
+{
+"character": "镂",
+
+"fly_code": "lzjn-",
+{
+"character": "箅",
+
+"fly_code": "bivl-",
+{
+"character": "箪",
+
+"fly_code": "djvl-",
+{
+"character": "箔",
+
+"fly_code": "bovb-",
+{
+"character": "箢",
+
+"fly_code": "yrvv-",
+{
+"character": "箓",
+
+"fly_code": "luvu-",
+{
+"character": "僭",
+
+"fly_code": "jmro-",
+{
+"character": "觫",
+
+"fly_code": "sudu-",
+{
+"character": "雒",
+
+"fly_code": "lowf-",
+{
+"character": "夤",
+
+"fly_code": "ybxb-",
+{
+"character": "瘊",
+
+"fly_code": "hzbu-",
+{
+"character": "廖",
+
+"fly_code": "lngp-",
+{
+"character": "阚",
+
+"fly_code": "hjmw- kjmw",
+{
+"character": "漕",
+
+"fly_code": "ccdo-",
+{
+"character": "慵",
+
+"fly_code": "ysxl-",
+{
+"character": "褡",
+
+"fly_code": "dapk-",
+{
+"character": "褓",
+
+"fly_code": "bcpm-",
+{
+"character": "褊",
+
+"fly_code": "bmpc-",
+{
+"character": "谰",
+
+"fly_code": "ljyj-",
+{
+"character": "缦",
+
+"fly_code": "mjsy-",
+{
+"character": "璀",
+
+"fly_code": "cvwf-",
+{
+"character": "璋",
+
+"fly_code": "vhwu-",
+{
+"character": "鋆",
+
+"fly_code": "yytj jytj-",
+{
+"character": "撙",
+
+"fly_code": "zyfc-",
+{
+"character": "鞑",
+
+"fly_code": "dagz-",
+{
+"character": "蕲",
+
+"fly_code": "qicj-",
+{
+"character": "樊",
+
+"fly_code": "fjmd-",
+{
+"character": "磙",
+
+"fly_code": "gyuy-",
+{
+"character": "颙",
+
+"fly_code": "ysyr-",
+{
+"character": "踔",
+
+"fly_code": "iozu-",
+{
+"character": "踯",
+
+"fly_code": "vize-",
+{
+"character": "蝻",
+
+"fly_code": "njig-",
+{
+"character": "蝣",
+
+"fly_code": "yziz-",
+{
+"character": "颛",
+
+"fly_code": "vrer-",
+{
+"character": "骸",
+
+"fly_code": "hdgr-",
+{
+"character": "镏",
+
+"fly_code": "lqjt-",
+{
+"character": "镒",
+
+"fly_code": "yijm-",
+{
+"character": "镓",
+
+"fly_code": "jxju-",
+{
+"character": "镔",
+
+"fly_code": "bbjb-",
+{
+"character": "篆",
+
+"fly_code": "vrvu-",
+{
+"character": "虢",
+
+"fly_code": "gopj-",
+{
+"character": "羰",
+
+"fly_code": "thyh-",
+{
+"character": "糅",
+
+"fly_code": "rzmm-",
+{
+"character": "熜",
+
+"fly_code": "cshx-",
+{
+"character": "熵",
+
+"fly_code": "uhhk-",
+{
+"character": "澍",
+
+"fly_code": "uudc-",
+{
+"character": "潸",
+
+"fly_code": "ujdo-",
+{
+"character": "潦",
+
+"fly_code": "lcdx lndx-",
+{
+"character": "潺",
+
+"fly_code": "ijdz-",
+{
+"character": "憬",
+
+"fly_code": "jkxx-",
+{
+"character": "憧",
+
+"fly_code": "isxl-",
+{
+"character": "褴",
+
+"fly_code": "ljpm-",
+{
+"character": "熨",
+
+"fly_code": "yuuh* yyuh-",
+{
+"character": "嬉",
+
+"fly_code": "xink-",
+{
+"character": "缯",
+
+"fly_code": "zgso-",
+{
+"character": "磬",
+
+"fly_code": "qkuu-",
+{
+"character": "蕻",
+
+"fly_code": "hscb-",
+{
+"character": "鞘",
+
+"fly_code": "qngo ucgo-",
+{
+"character": "薅",
+
+"fly_code": "hccc-",
+{
+"character": "橇",
+
+"fly_code": "qnmm-",
+{
+"character": "橹",
+
+"fly_code": "lumo-",
+{
+"character": "橼",
+
+"fly_code": "yrmu-",
+{
+"character": "醍",
+
+"fly_code": "tiyr-",
+{
+"character": "霓",
+
+"fly_code": "niye-",
+{
+"character": "辚",
+
+"fly_code": "lbil-",
+{
+"character": "遽",
+
+"fly_code": "juzu-",
+{
+"character": "瞠",
+
+"fly_code": "igot-",
+{
+"character": "踵",
+
+"fly_code": "vszv-",
+{
+"character": "噱",
+
+"fly_code": "xtku- jtku",
+{
+"character": "镖",
+
+"fly_code": "bnjx-",
+{
+"character": "镞",
+
+"fly_code": "zuju-",
+{
+"character": "憩",
+
+"fly_code": "qiqx-",
+{
+"character": "篙",
+
+"fly_code": "gcvk-",
+{
+"character": "魉",
+
+"fly_code": "llgl-",
+{
+"character": "魈",
+
+"fly_code": "xngo-",
+{
+"character": "瘴",
+
+"fly_code": "vhbu-",
+{
+"character": "麇",
+
+"fly_code": "qygh jygh-",
+{
+"character": "嬴",
+
+"fly_code": "ykwf-",
+{
+"character": "燧",
+
+"fly_code": "svhz-",
+{
+"character": "濑",
+
+"fly_code": "lddr-",
+{
+"character": "璩",
+
+"fly_code": "quwu-",
+{
+"character": "螫",
+
+"fly_code": "uiti-",
+{
+"character": "藓",
+
+"fly_code": "xmcy-",
+{
+"character": "嚏",
+
+"fly_code": "tikr-",
+{
+"character": "蹊",
+
+"fly_code": "xizd qizd-",
+{
+"character": "蟑",
+
+"fly_code": "vhiu-",
+{
+"character": "镩",
+
+"fly_code": "crji-",
+{
+"character": "镪",
+
+"fly_code": "qlji-",
+{
+"character": "罅",
+
+"fly_code": "xxfh-",
+{
+"character": "黏",
+
+"fly_code": "nmhk-",
+{
+"character": "膻",
+
+"fly_code": "djoa- ujoa",
+{
+"character": "膺",
+
+"fly_code": "ykgo-",
+{
+"character": "麋",
+
+"fly_code": "migm-",
+{
+"character": "濠",
+
+"fly_code": "hcdu-",
+{
+"character": "嬷",
+
+"fly_code": "monm-",
+{
+"character": "鹬",
+
+"fly_code": "yusn-",
+{
+"character": "鞯",
+
+"fly_code": "jmgz-",
+{
+"character": "鞨",
+
+"fly_code": "hegv-",
+{
+"character": "黠",
+
+"fly_code": "xxhk-",
+{
+"character": "馥",
+
+"fly_code": "fuhw-",
+{
+"character": "簟",
+
+"fly_code": "dmvu-",
+{
+"character": "彝",
+
+"fly_code": "yivc-",
+{
+"character": "鞲",
+
+"fly_code": "gzgr-",
+{
+"character": "醮",
+
+"fly_code": "jnyh-",
+{
+"character": "霪",
+
+"fly_code": "ybyr-",
+{
+"character": "镲",
+
+"fly_code": "iajx-",
+{
+"character": "鳗",
+
+"fly_code": "mjay-",
+{
+"character": "骥",
+
+"fly_code": "jimb-",
+{
+"character": "黩",
+
+"fly_code": "duhd-",
+{
+"character": "黥",
+
+"fly_code": "qkhx-",
+{
+"character": "醺",
+
+"fly_code": "xyyh-",
+{
+"character": "爝",
+
+"fly_code": "jthc-",
+{
+"character": "蠡",
+
+"fly_code": "livi-",
+{
+"character": "耱",
+
+"fly_code": "molu-",
+{
+"character": "蘸",
+
+"fly_code": "vjch-",
+{
+"character": "躐",
+
+"fly_code": "lpzv-",
+{
+"character": "鬻",
+
+"fly_code": "yugl-",
+{
+"character": "鼹",
+
+"fly_code": "yjjn-",
+{
+"character": "癯",
+
+"fly_code": "qubf-",
+{
+"character": "蠹",
+
+"fly_code": "duai-",
+{
+"character": "鬣",
+
+"fly_code": "lpav-",
+{
+"character": "尢",
+
+"fly_code": "yzuv-",
+{
+"character": "䜣",
+
+"fly_code": "xbyj-",
+{
+"character": "讻",
+
+"fly_code": "xsyk-",
+{
+"character": "芈",
+
+"fly_code": "mill-",
+{
+"character": "岙",
+
+"fly_code": "aoye-",
+{
+"character": "飏",
+
+"fly_code": "yhjp-",
+{
+"character": "狃",
+
+"fly_code": "nqqi-",
+{
+"character": "忮",
+
+"fly_code": "vixy-",
+{
+"character": "诎",
+
+"fly_code": "quyi-",
+{
+"character": "诐",
+
+"fly_code": "biyy-",
+{
+"character": "阼",
+
+"fly_code": "zoev-",
+{
+"character": "玟",
+
+"fly_code": "wfww mbww-",
+{
+"character": "坽",
+
+"fly_code": "lkts-",
+{
+"character": "佴",
+
+"fly_code": "erre ndre-",
+{
+"character": "佺",
+
+"fly_code": "qrrw-",
+{
+"character": "隹",
+
+"fly_code": "vvrf-",
+{
+"character": "炌",
+
+"fly_code": "kdhl-",
+{
+"character": "怊",
+
+"fly_code": "icxk-",
+{
+"character": "迳",
+
+"fly_code": "jkzg-",
+{
+"character": "砉",
+
+"fly_code": "hxfu xufu-",
+{
+"character": "珅",
+
+"fly_code": "ufwu-",
+{
+"character": "垯",
+
+"fly_code": "datz-",
+{
+"character": "垲",
+
+"fly_code": "kdtj-",
+{
+"character": "埏",
+
+"fly_code": "ujtz-",
+{
+"character": "茺",
+
+"fly_code": "isce-",
+{
+"character": "砆",
+
+"fly_code": "fuuf-",
+{
+"character": "砄",
+
+"fly_code": "jtug-",
+{
+"character": "咡",
+
+"fly_code": "erke-",
+{
+"character": "哒",
+
+"fly_code": "dakz-",
+{
+"character": "俜",
+
+"fly_code": "pkrv-",
+{
+"character": "洴",
+
+"fly_code": "pkdk-",
+{
+"character": "祐",
+
+"fly_code": "yzpk-",
+{
+"character": "叚",
+
+"fly_code": "xxvy-",
+{
+"character": "硁",
+
+"fly_code": "kgug-",
+{
+"character": "翃",
+
+"fly_code": "hsux-",
+{
+"character": "𬌗",
+
+"fly_code": "heyk-",
+{
+"character": "唝",
+
+"fly_code": "gskr-",
+{
+"character": "鱽",
+
+"fly_code": "dcad-",
+{
+"character": "勍",
+
+"fly_code": "qkwl-",
+{
+"character": "𬊈",
+
+"fly_code": "xyhc-",
+{
+"character": "悢",
+
+"fly_code": "llxl-",
+{
+"character": "㛚",
+
+"fly_code": "tsny-",
+{
+"character": "𬳿",
+
+"fly_code": "tumh-",
+{
+"character": "珵",
+
+"fly_code": "igww-",
+{
+"character": "唪",
+
+"fly_code": "fgkl-",
+{
+"character": "𬱖",
+
+"fly_code": "diyr-",
+{
+"character": "啴",
+
+"fly_code": "tjkl ijkl-",
+{
+"character": "崡",
+
+"fly_code": "hjek-",
+{
+"character": "铖",
+
+"fly_code": "igji-",
+{
+"character": "烺",
+
+"fly_code": "lhhl-",
+{
+"character": "焌",
+
+"fly_code": "quhw* jyhw-",
+{
+"character": "隃",
+
+"fly_code": "uued-",
+{
+"character": "鄑",
+
+"fly_code": "ziye-",
+{
+"character": "嵚",
+
+"fly_code": "qber-",
+{
+"character": "淼",
+
+"fly_code": "mnuu-",
+{
+"character": "铽",
+
+"fly_code": "tejx-",
+{
+"character": "犇",
+
+"fly_code": "bfnn-",
+{
+"character": "𬊤",
+
+"fly_code": "ijhl-",
+{
+"character": "溞",
+
+"fly_code": "scdi-",
+{
+"character": "愐",
+
+"fly_code": "mmxm-",
+{
+"character": "瑔",
+
+"fly_code": "qrwu-",
+{
+"character": "蔀",
+
+"fly_code": "buce-",
+{
+"character": "楞",
+
+"fly_code": "lgmf-",
+{
+"character": "龆",
+
+"fly_code": "tnvk-",
+{
+"character": "筻",
+
+"fly_code": "ghvg-",
+{
+"character": "戤",
+
+"fly_code": "gdng-",
+{
+"character": "勠",
+
+"fly_code": "luxl-",
+{
+"character": "墚",
+
+"fly_code": "lltm-",
+{
+"character": "酴",
+
+"fly_code": "tuyh-",
+{
+"character": "蜾",
+
+"fly_code": "goig-",
+{
+"character": "𩽾",
+
+"fly_code": "anan-",
+{
+"character": "熇",
+
+"fly_code": "hehk-",
+{
+"character": "䗖",
+
+"fly_code": "diij-",
+{
+"character": "噇",
+
+"fly_code": "ilkl-",
+{
+"character": "儇",
+
+"fly_code": "xrry-",
+{
+"character": "糇",
+
+"fly_code": "hzmu-",
+{
+"character": "憭",
+
+"fly_code": "lnxx-",
+{
+"character": "𫍽",
+
+"fly_code": "xryy-",
+{
+"character": "衠",
+
+"fly_code": "vyii-",
+{
+"character": "𫗴",
+
+"fly_code": "vjua-",
+{
+"character": "黉",
+
+"fly_code": "hsxb-",
+{
+"character": "鹨",
+
+"fly_code": "lqxn-",
+{
+"character": "翯",
+
+"fly_code": "hexk-",
+{
+"character": "瞵",
+
+"fly_code": "lbol-",
+{
+"character": "簕",
+
+"fly_code": "levl-",
+{
+"character": "馘",
+
+"fly_code": "goba-",
+{
+"character": "鼩",
+
+"fly_code": "qujk-",
+{
+"character": "醵",
+
+"fly_code": "juyu-",
+{
+"character": "瀹",
+
+"fly_code": "ytdc-",
+{
+"character": "爚",
+
+"fly_code": "ythc-",
