@@ -1,4 +1,4 @@
-# 🐦XiaoheSougou: Full Form-based Character Code for Xiaohe Chinese Input Method
+# 🐦XiaoheSougou: A Full Form-based Character Code Bundle for Xiaohe Chinese Input Method
 
 本库为 macOS 上搜狗输入法小鹤双拼（音形）的挂载词库（自用），以下词库均为形码词库。
 
