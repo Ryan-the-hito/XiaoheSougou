@@ -29,6 +29,7 @@
     - **点划引导配置皮肤 iOS -Ryan_rev.plist**：与点划引导配置相对应的输入法皮肤，可以准确地在 iOS/iPadOS 的键盘上显示提示。
       ![kgolXEL](https://i.imgur.com/kgolXEL.jpg)
     - **音调辅码-Ryan-the-hito.txt**：在落格输入法提供的原有声调辅码的基础上增补汉字得来，辅码的声调为 asdfg 这几个键，分别对应一二三四声调和轻音。用双拼输入一个字之后打出音调辅码，可以帮助用户在同音字之间选择。
+      ![OVr2bVd](https://i.imgur.com/OVr2bVd.jpg)
       ![HIxmMLX](https://i.imgur.com/HIxmMLX.png)
     - **音调辅码（所有可显汉字库）-Ryan-the-hito.txt**：字库范围比上一个更大。本字库基于 [kaienfr / Font](https://github.com/kaienfr/Font?cmdf=kaienfr+%2F+Font)  的“全部可显汉字库”，相较于原有字库，此库收录的字更多，生僻字也更全，用户可按需选择使用。
 4. **phrases（全码表+四码短语表）.ini**
