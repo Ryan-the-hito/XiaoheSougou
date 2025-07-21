@@ -2,7 +2,7 @@
 
 import codecs
 
-text = codecs.open('/Users/ryanshenefield/Downloads/ciku.txt', 'r', encoding='utf-8').read()
+text = codecs.open('output.txt', 'r', encoding='utf-8').read()
 
 text = text.replace('iong', 's')
 text = text.replace('uang', 'l')
@@ -35,6 +35,7 @@ text = text.replace('ao', 'c')
 text = text.replace('in', 'b')
 text = text.replace('zh', 'v')
 text = text.replace('sh', 'u')
+text = text.replace('ch', 'i')
 
 text = text.replace("'o'", "'oo'")
 text = text.replace("\to'", "\too'")
@@ -80,5 +81,5 @@ text = text.replace("'z'", "'ou'")
 text = text.replace("\tz'", "\tou'")
 text = text.replace("'z\n", "'ou\n")
 
-with open('/Users/ryanshenefield/Downloads/ciku2.txt', 'w', encoding='utf-8') as f0:
+with open('output2.txt', 'w', encoding='utf-8') as f0:
     f0.write(text)
